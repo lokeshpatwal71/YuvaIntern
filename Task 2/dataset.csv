@@ -1,0 +1,1007 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+INV-00001,B,Delhi,Normal,Female,Home and lifestyle,725.09,2,72.51,1522.69,1/1/2025,13:01,Ewallet,1450.18,4.761904762,72.51,7.3
+INV-00002,C,Bengaluru,Member,Female,Fashion accessories,189.54,8,75.82,1592.14,1/1/2025,13:23,Credit card,1516.32,4.761904762,75.82,6.8
+INV-00003,A,Mumbai,Member,Male,Health and beauty,315.65,3,47.35,994.3,1/1/2025,14:57,Ewallet,946.95,4.761904762,47.35,8.0
+INV-00004,C,Bengaluru,Normal,Female,Home and lifestyle,921.42,10,460.71,9674.91,1/1/2025,14:58,Credit card,9214.2,4.761904762,460.71,8.3
+INV-00005,B,Delhi,Member,Female,Health and beauty,501.28,6,150.38,3158.06,1/1/2025,17:43,Ewallet,3007.68,4.761904762,150.38,8.0
+INV-00006,B,Delhi,Normal,Male,Food and beverages,282.39,2,28.24,593.02,1/1/2025,18:11,Credit card,564.78,4.761904762,28.24,10.0
+INV-00007,B,Delhi,Member,Male,Electronic accessories,267.85,8,107.14,2249.94,1/1/2025,18:47,Credit card,2142.8,4.761904762,107.14,8.0
+INV-00008,C,Bengaluru,Normal,Male,Home and lifestyle,937.72,10,468.86,9846.06,1/1/2025,18:52,Credit card,9377.2,4.761904762,468.86,6.1
+INV-00009,B,Delhi,Normal,Male,Sports and travel,242.76,6,72.83,1529.39,1/1/2025,19:25,Cash,1456.56,4.761904762,72.83,5.2
+INV-00010,C,Bengaluru,Member,Male,Fashion accessories,105.38,10,52.69,1106.49,1/1/2025,19:39,Credit card,1053.8,4.761904762,52.69,5.9
+INV-00011,B,Delhi,Member,Female,Health and beauty,427.4,8,170.96,3590.16,1/1/2025,19:50,Credit card,3419.2,4.761904762,170.96,8.0
+INV-00012,A,Mumbai,Member,Male,Food and beverages,210.41,7,73.64,1546.51,1/1/2025,20:04,Cash,1472.87,4.761904762,73.64,7.1
+INV-00013,C,Bengaluru,Normal,Female,Health and beauty,584.15,5,146.04,3066.79,1/2/2025,13:27,Cash,2920.75,4.761904762,146.04,8.0
+INV-00014,B,Delhi,Member,Female,Fashion accessories,164.25,4,32.85,689.85,1/2/2025,13:47,Cash,657.0,4.761904762,32.85,7.5
+INV-00015,A,Mumbai,Normal,Female,Food and beverages,271.11,6,81.33,1707.99,1/2/2025,14:03,Credit card,1626.66,4.761904762,81.33,4.0
+INV-00016,C,Bengaluru,Normal,Female,Food and beverages,102.27,6,30.68,644.3,1/2/2025,14:37,Cash,613.62,4.761904762,30.68,6.5
+INV-00017,C,Bengaluru,Member,Male,Electronic accessories,508.01,6,152.4,3200.46,1/2/2025,14:59,Cash,3048.06,4.761904762,152.4,6.2
+INV-00018,B,Delhi,Normal,Male,Food and beverages,121.02,2,12.1,254.14,1/2/2025,16:44,Credit card,242.04,4.761904762,12.1,5.7
+INV-00019,A,Mumbai,Normal,Female,Fashion accessories,340.62,7,119.22,2503.56,1/2/2025,18:14,Ewallet,2384.34,4.761904762,119.22,6.4
+INV-00020,B,Delhi,Member,Male,Food and beverages,345.28,3,51.79,1087.63,1/2/2025,19:14,Credit card,1035.84,4.761904762,51.79,7.9
+INV-00021,C,Bengaluru,Normal,Female,Health and beauty,520.04,10,260.02,5460.42,1/2/2025,19:16,Cash,5200.4,4.761904762,260.02,10.0
+INV-00022,A,Mumbai,Normal,Female,Electronic accessories,443.96,9,199.78,4195.42,1/2/2025,19:41,Credit card,3995.64,4.761904762,199.78,8.1
+INV-00023,A,Mumbai,Member,Male,Food and beverages,201.84,6,60.55,1271.59,1/2/2025,20:41,Ewallet,1211.04,4.761904762,60.55,6.9
+INV-00024,B,Delhi,Normal,Female,Fashion accessories,531.02,10,265.51,5575.71,1/3/2025,11:40,Cash,5310.2,4.761904762,265.51,9.4
+INV-00025,C,Bengaluru,Member,Male,Fashion accessories,566.82,9,255.07,5356.45,1/3/2025,14:45,Credit card,5101.38,4.761904762,255.07,6.8
+INV-00026,C,Bengaluru,Member,Male,Fashion accessories,357.74,10,178.87,3756.27,1/3/2025,15:56,Credit card,3577.4,4.761904762,178.87,6.1
+INV-00027,B,Delhi,Member,Female,Fashion accessories,277.21,3,41.58,873.21,1/3/2025,16:18,Credit card,831.63,4.761904762,41.58,6.6
+INV-00028,B,Delhi,Member,Female,Electronic accessories,852.27,4,170.45,3579.53,1/3/2025,16:21,Ewallet,3409.08,4.761904762,170.45,8.1
+INV-00029,B,Delhi,Member,Female,Food and beverages,287.18,2,28.72,603.08,1/3/2025,19:50,Ewallet,574.36,4.761904762,28.72,6.4
+INV-00030,B,Delhi,Member,Male,Home and lifestyle,488.84,5,122.21,2566.41,1/3/2025,20:12,Credit card,2444.2,4.761904762,122.21,7.9
+INV-00031,B,Delhi,Member,Female,Sports and travel,792.02,7,277.21,5821.35,1/4/2025,10:22,Credit card,5544.14,4.761904762,277.21,7.1
+INV-00032,A,Mumbai,Normal,Male,Health and beauty,259.34,8,103.74,2178.46,1/4/2025,12:12,Credit card,2074.72,4.761904762,103.74,5.3
+INV-00033,C,Bengaluru,Normal,Male,Fashion accessories,160.95,3,24.14,506.99,1/4/2025,13:16,cash,482.85,4.761904762,24.14,8.4
+INV-00034,A,Mumbai,Member,Male,Health and beauty,526.59,8,210.64,4423.36,1/4/2025,13:29,Cash,4212.72,4.761904762,210.64,6.4
+INV-00035,A,Mumbai,Member,Female,Sports and travel,583.78,1,29.19,612.97,1/4/2025,13:41,Cash,583.78,4.761904762,29.19,8.0
+INV-00036,A,Mumbai,Member,Male,Home and lifestyle,318.51,7,111.48,2341.05,1/4/2025,13:43,Cash,2229.57,4.761904762,111.48,5.9
+INV-00037,B,Delhi,Member,Female,Home and lifestyle,769.7,9,346.36,7273.66,1/4/2025,13:51,Credit card,6927.3,4.761904762,346.36,6.3
+INV-00038,C,Bengaluru,Normal,Female,Sports and travel,239.98,3,36.0,755.94,1/4/2025,16:41,Credit card,719.94,4.761904762,36.0,5.9
+INV-00039,B,Delhi,Normal,Male,Home and lifestyle,920.94,4,184.19,3867.95,1/4/2025,18:42,Credit card,3683.76,4.761904762,184.19,7.6
+INV-00040,A,Mumbai,Normal,Female,Health and beauty,506.07,2,50.61,1062.75,1/5/2025,12:15,Ewallet,1012.14,4.761904762,50.61,7.2
+INV-00041,A,Mumbai,Normal,Male,Electronic accessories,317.57,4,63.51,1333.79,1/5/2025,12:19,Ewallet,1270.28,4.761904762,63.51,6.5
+INV-00042,C,Bengaluru,Member,Female,Electronic accessories,171.2,2,17.12,359.52,1/5/2025,14:58,Ewallet,342.4,4.761904762,17.12,4.0
+INV-00043,B,Delhi,Member,Female,Home and lifestyle,711.19,7,248.92,5227.25,1/5/2025,15:37,Ewallet,4978.33,4.761904762,248.92,7.9
+INV-00044,A,Mumbai,Normal,Female,Sports and travel,374.47,3,56.17,1179.58,1/5/2025,15:46,Ewallet,1123.41,4.761904762,56.17,5.6
+INV-00045,B,Delhi,Member,Male,Electronic accessories,515.45,7,180.41,3788.56,1/5/2025,17:18,Ewallet,3608.15,4.761904762,180.41,5.4
+INV-00046,A,Mumbai,Member,Female,Home and lifestyle,488.48,8,195.39,4103.23,1/5/2025,19:52,Credit card,3907.84,4.761904762,195.39,5.8
+INV-00047,C,Bengaluru,Normal,Male,Food and beverages,391.29,6,117.39,2465.13,1/5/2025,19:53,Credit card,2347.74,4.761904762,117.39,8.0
+INV-00048,B,Delhi,Member,Female,Sports and travel,885.51,9,398.48,8368.07,1/5/2025,20:31,Cash,7969.59,4.761904762,398.48,7.0
+INV-00049,A,Mumbai,Normal,Male,Electronic accessories,681.81,3,102.27,2147.7,1/5/2025,20:55,Cash,2045.43,4.761904762,102.27,9.0
+INV-00050,C,Bengaluru,Normal,Female,Health and beauty,91.3,4,18.26,383.46,1/6/2025,10:36,Ewallet,365.2,4.761904762,18.26,8.5
+INV-00051,A,Mumbai,Member,Male,Home and lifestyle,730.42,2,73.04,1533.88,1/6/2025,11:28,Ewallet,1460.84,4.761904762,73.04,5.9
+INV-00052,A,Mumbai,Normal,Male,Home and lifestyle,644.41,5,161.1,3383.15,1/6/2025,11:58,Ewallet,3222.05,4.761904762,161.1,8.4
+INV-00053,A,Mumbai,Normal,Female,Health and beauty,566.04,1,28.3,594.34,1/6/2025,14:16,Ewallet,566.04,4.761904762,28.3,8.0
+INV-00054,B,Delhi,Member,Male,Electronic accessories,679.12,10,339.56,7130.76,1/6/2025,16:36,Credit card,6791.2,4.761904762,339.56,8.8
+INV-00055,B,Delhi,Member,Female,Fashion accessories,482.54,4,96.51,2026.67,1/6/2025,17:32,Credit card,1930.16,4.761904762,96.51,4.6
+INV-00056,B,Delhi,Member,Male,Health and beauty,140.35,8,56.14,1178.94,1/6/2025,17:54,Ewallet,1122.8,4.761904762,56.14,9.2
+INV-00057,B,Delhi,Member,Female,Home and lifestyle,850.41,10,425.21,8929.31,1/6/2025,18:01,Credit card,8504.1,4.761904762,425.21,4.2
+INV-00058,C,Bengaluru,Member,Male,Home and lifestyle,394.16,8,157.66,3310.94,1/6/2025,18:13,Ewallet,3153.28,4.761904762,157.66,6.7
+INV-00059,A,Mumbai,Member,Male,Fashion accessories,359.73,9,161.88,3399.45,1/6/2025,18:19,Ewallet,3237.57,4.761904762,161.88,6.0
+INV-00060,A,Mumbai,Normal,Female,Electronic accessories,746.58,2,74.66,1567.82,1/6/2025,18:31,Cash,1493.16,4.761904762,74.66,5.5
+INV-00061,C,Bengaluru,Normal,Female,Home and lifestyle,768.53,6,230.56,4841.74,1/6/2025,18:52,Ewallet,4611.18,4.761904762,230.56,7.0
+INV-00062,B,Delhi,Normal,Male,Home and lifestyle,579.35,7,202.77,4258.22,1/6/2025,18:54,Ewallet,4055.45,4.761904762,202.77,4.7
+INV-00063,C,Bengaluru,Member,Female,Fashion accessories,261.35,9,117.61,2469.76,1/6/2025,19:54,Credit card,2352.15,4.761904762,117.61,9.0
+INV-00064,B,Delhi,Member,Male,Sports and travel,359.5,10,179.75,3774.75,1/6/2025,20:03,Cash,3595.0,4.761904762,179.75,6.2
+INV-00065,C,Bengaluru,Member,Female,Fashion accessories,427.39,1,21.37,448.76,1/6/2025,20:51,Cash,427.39,4.761904762,21.37,10.0
+INV-00066,A,Mumbai,Member,Male,Sports and travel,736.05,1,36.8,772.85,1/7/2025,11:17,Credit card,736.05,4.761904762,36.8,4.2
+INV-00067,A,Mumbai,Member,Female,Food and beverages,273.94,7,95.88,2013.46,1/7/2025,12:15,Credit card,1917.58,4.761904762,95.88,7.5
+INV-00068,A,Mumbai,Member,Female,Food and beverages,163.86,5,40.96,860.26,1/7/2025,13:30,credit card,819.3,4.761904762,40.96,9.5
+INV-00069,A,Mumbai,Member,Female,Food and beverages,228.38,10,114.19,2397.99,1/7/2025,13:41,Credit card,2283.8,4.761904762,114.19,4.1
+INV-00070,C,Bengaluru,Member,Male,Fashion accessories,318.15,8,127.26,2672.46,1/7/2025,13:54,Ewallet,2545.2,4.761904762,127.26,8.0
+INV-00071,C,Bengaluru,Normal,Male,Home and lifestyle,407.63,3,61.14,1284.03,1/7/2025,14:13,Credit card,1222.89,4.761904762,61.14,4.9
+INV-00072,C,Bengaluru,Member,Male,Fashion accessories,631.9,2,63.19,1326.99,1/7/2025,17:00,Credit card,1263.8,4.761904762,63.19,6.8
+INV-00073,C,Bengaluru,Normal,Male,Fashion accessories,195.77,8,78.31,1644.47,1/7/2025,17:12,Cash,1566.16,4.761904762,78.31,8.7
+INV-00074,C,Bengaluru,Member,Male,Home and lifestyle,599.19,6,179.76,3774.9,1/7/2025,17:44,Cash,3595.14,4.761904762,179.76,5.6
+INV-00075,B,Delhi,Normal,Male,Food and beverages,59.91,3,8.99,188.72,1/7/2025,19:17,Credit card,179.73,4.761904762,8.99,8.1
+INV-00076,B,Delhi,Normal,Female,Home and lifestyle,928.27,5,232.07,4873.42,1/8/2025,13:26,Ewallet,4641.35,4.761904762,232.07,6.3
+INV-00077,A,Mumbai,Normal,Male,Health and beauty,319.06,7,111.67,2345.09,1/8/2025,14:28,Cash,2233.42,4.761904762,111.67,7.1
+INV-00078,A,Mumbai,Normal,Female,Fashion accessories,442.54,5,110.64,2323.34,1/8/2025,14:47,Ewallet ,2212.7,4.761904762,110.64,6.4
+INV-00079,A,Mumbai,Member,Male,Health and beauty,378.06,7,132.32,2778.74,1/8/2025,14:59,Credit card,2646.42,4.761904762,132.32,8.5
+INV-00080,A,Mumbai,Normal,Female,Sports and travel,331.35,8,132.54,2783.34,1/8/2025,17:30,Ewallet,2650.8,4.761904762,132.54,4.7
+INV-00081,C,Bengaluru,Member,Male,Food and beverages,380.75,10,190.38,3997.88,1/8/2025,18:21,Ewallet,3807.5,4.761904762,190.38,8.8
+INV-00082,A,Mumbai,Member,Male,Food and beverages,223.5,1,11.18,234.68,1/8/2025,18:32,Cash,223.5,4.761904762,11.18,6.2
+INV-00083,A,Mumbai,Member,Male,Electronic accessories,682.5,8,273.0,5733.0,1/8/2025,19:06,Credit card,5460.0,4.761904762,273.0,10.0
+INV-00084,A,Mumbai,Normal,Male,Food and beverages,173.89,1,8.69,182.58,1/8/2025,20:08,Credit card,173.89,4.761904762,8.69,6.0
+INV-00085,B,Delhi,Member,Male,Electronic accessories,244.97,5,61.24,1286.09,1/9/2025,12:58,Ewallet,1224.85,4.761904762,61.24,7.5
+INV-00086,B,Delhi,Member,Male,Electronic accessories,158.33,3,23.75,498.74,1/9/2025,13:15,Ewallet,474.99,4.761904762,23.75,5.7
+INV-00087,C,Bengaluru,Member,Female,Food and beverages,101.36,2,10.14,212.86,1/9/2025,17:53,Ewallet,202.72,4.761904762,10.14,9.3
+INV-00088,C,Bengaluru,Normal,Female,Electronic accessories,401.23,5,100.31,2106.46,1/9/2025,18:57,Cash,2006.15,4.761904762,100.31,10.0
+INV-00089,A,Mumbai,Normal,Female,Health and beauty,593.84,8,237.54,4988.26,1/9/2025,19:47,Cash,4750.72,4.761904762,237.54,4.2
+INV-00090,A,Mumbai,Member,Female,Sports and travel,804.86,9,362.19,7605.93,1/9/2025,20:22,Credit card,7243.74,4.761904762,362.19,9.5
+INV-00091,A,Mumbai,Normal,Male,Home and lifestyle,743.96,2,74.4,1562.32,1/10/2025,13:05,Cash,1487.92,4.761904762,74.4,6.7
+INV-00092,A,Mumbai,Member,Female,Home and lifestyle,432.86,9,194.79,4090.53,1/10/2025,13:53,Cash,3895.74,4.761904762,194.79,6.2
+INV-00093,B,Delhi,Member,Female,Sports and travel,757.71,2,75.77,1591.19,1/10/2025,14:18,Cash,1515.42,4.761904762,75.77,7.2
+INV-00094,C,Bengaluru,Member,Female,Health and beauty,369.18,4,73.84,1550.56,1/10/2025,14:48,Credit card,1476.72,4.761904762,73.84,8.2
+INV-00095,C,Bengaluru,Member,Female,Electronic accessories,284.28,4,56.86,1193.98,1/10/2025,18:07,Cash,1137.12,4.761904762,56.86,8.5
+INV-00096,B,Delhi,Normal,Male,Fashion accessories,668.86,8,267.54,5618.42,1/10/2025,18:09,Cash,5350.88,4.761904762,267.54,5.3
+INV-00097,B,Delhi,Member,Male,Health and beauty,524.18,5,131.05,2751.95,1/10/2025,20:14,Cash,2620.9,4.761904762,131.05,5.6
+INV-00098,B,Delhi,Member,Female,Electronic accessories,544.92,3,81.74,1716.5,1/10/2025,20:25,Cash,1634.76,4.761904762,81.74,4.6
+INV-00099,A,Mumbai,Normal,Male,Home and lifestyle,949.01,3,142.35,2989.38,1/10/2025,20:52,Cash,2847.03,4.761904762,142.35,7.7
+INV-00100,B,Delhi,Normal,Female,Food and beverages,373.01,3,55.95,1174.98,1/11/2025,10:33,Cash,1119.03,4.761904762,55.95,7.1
+INV-00101,A,Mumbai,Normal,Male,Electronic accessories,376.71,4,75.34,1582.18,1/11/2025,10:45,Credit card,1506.84,4.761904762,75.34,7.1
+INV-00102,C,Bengaluru,Normal,Male,Health and beauty,433.22,3,64.98,1364.64,1/11/2025,11:52,Cash,1299.66,4.761904762,64.98,5.8
+INV-00103,B,Delhi,Member,Female,Sports and travel,507.29,9,228.28,4793.89,1/11/2025,13:07,Cash,4565.61,4.761904762,228.28,8.4
+INV-00104,C,Bengaluru,Member,Male,Home and lifestyle,246.34,9,110.85,2327.91,1/11/2025,13:12,Ewallet,2217.06,4.761904762,110.85,7.2
+INV-00105,B,Delhi,Member,Male,Home and lifestyle,771.52,7,270.03,5670.67,1/11/2025,13:59,Credit card,5400.64,4.761904762,270.03,4.0
+INV-00106,B,Delhi,Member,Male,Electronic accessories,653.03,10,326.52,6856.82,1/11/2025,14:30,Ewallet,6530.3,4.761904762,326.52,7.8
+INV-00107,A,Mumbai,Normal,Female,Fashion accessories,286.54,8,114.62,2406.94,1/11/2025,15:48,Ewallet,2292.32,4.761904762,114.62,6.0
+INV-00108,B,Delhi,Member,Male,Fashion accessories,409.87,5,102.47,2151.82,1/11/2025,16:54,Ewallet,2049.35,4.761904762,102.47,7.7
+INV-00109,A,Mumbai,Normal,Male,Sports and travel,381.84,2,38.18,801.86,1/11/2025,17:55,Ewallet,763.68,4.761904762,38.18,7.6
+INV-00110,B,Delhi,Member,Female,Health and beauty,560.21,9,252.09,5293.98,1/11/2025,18:19,Ewallet,5041.89,4.761904762,252.09,5.0
+INV-00111,B,Delhi,Member,Female,Sports and travel,549.1,7,192.18,4035.88,1/11/2025,18:55,Ewallet,3843.7,4.761904762,192.18,7.6
+INV-00112,B,Delhi,Normal,Male,Health and beauty,446.72,4,89.34,1876.22,1/11/2025,19:53,Ewallet,1786.88,4.761904762,89.34,5.6
+INV-00113,A,Mumbai,Normal,Female,Fashion accessories,340.47,5,85.12,1787.47,1/11/2025,20:47,Ewallet,1702.35,4.761904762,85.12,8.4
+INV-00114,B,Delhi,Normal,Male,Home and lifestyle,917.41,6,275.22,5779.68,1/11/2025,20:48,Credit card,5504.46,4.761904762,275.22,9.7
+INV-00115,C,Bengaluru,Normal,Female,Home and lifestyle,523.72,4,104.74,2199.62,1/12/2025,12:35,Cash,2094.88,4.761904762,104.74,7.6
+INV-00116,B,Delhi,Normal,Male,Home and lifestyle,288.15,7,100.85,2117.9,1/12/2025,13:18,Cash,2017.05,4.761904762,100.85,6.6
+INV-00117,C,Bengaluru,Normal,Male,Sports and travel,202.4,3,30.36,637.56,1/12/2025,13:34,Ewallet,607.2,4.761904762,30.36,9.5
+INV-00118,B,Delhi,Member,Female,Sports and travel,512.44,4,102.49,2152.25,1/12/2025,13:49,ewallet,2049.76,4.761904762,102.49,7.8
+INV-00119,B,Delhi,Member,Female,Home and lifestyle,888.33,9,399.75,8394.72,1/12/2025,14:52,Ewallet,7994.97,4.761904762,399.75,5.7
+INV-00120,C,Bengaluru,Normal,Female,Electronic accessories,569.72,9,256.37,5383.85,1/12/2025,15:59,Cash,5127.48,4.761904762,256.37,8.6
+INV-00121,C,Bengaluru,Normal,Male,Home and lifestyle,859.62,2,85.96,1805.2,1/12/2025,16:26,Credit card,1719.24,4.761904762,85.96,6.9
+INV-00122,B,Delhi,Member,Female,Health and beauty,471.51,4,94.3,1980.34,1/12/2025,16:55,Credit card,1886.04,4.761904762,94.3,6.7
+INV-00123,B,Delhi,Normal,Male,Health and beauty,274.76,8,109.9,2307.98,1/12/2025,17:42,Cash,2198.08,4.761904762,109.9,5.8
+INV-00124,C,Bengaluru,Normal,Male,Electronic accessories,162.03,9,72.91,1531.18,1/12/2025,18:39,Ewallet,1458.27,4.761904762,72.91,8.6
+INV-00125,A,Mumbai,Member,Male,Health and beauty,253.74,10,126.87,2664.27,1/12/2025,18:48,Cash,2537.4,4.761904762,126.87,5.6
+INV-00126,C,Bengaluru,Member,Female,Food and beverages,370.89,8,148.36,3115.48,1/12/2025,19:27,Cash,2967.12,4.761904762,148.36,9.5
+INV-00127,A,Mumbai,Member,Female,Food and beverages,266.61,7,93.31,1959.58,1/12/2025,19:42,Ewallet,1866.27,4.761904762,93.31,6.4
+INV-00128,A,Mumbai,Normal,Male,Fashion accessories,245.46,7,85.91,1804.13,1/12/2025,20:12,Cash,1718.22,4.761904762,85.91,7.0
+INV-00129,A,Mumbai,Member,Male,Health and beauty,502.2,6,150.66,3163.86,1/12/2025,20:49,Cash,3013.2,4.761904762,150.66,7.4
+INV-00130,A,Mumbai,Normal,Male,Food and beverages,288.03,8,115.21,2419.45,1/13/2025,12:33,Cash,2304.24,4.761904762,115.21,6.9
+INV-00131,A,Mumbai,Member,Male,Home and lifestyle,928.92,10,464.46,9753.66,1/13/2025,14:31,Ewallet,9289.2,4.761904762,464.46,7.9
+INV-00132,A,Mumbai,Normal,Male,Sports and travel,165.24,3,24.79,520.51,1/13/2025,17:24,Ewallet,495.72,4.761904762,24.79,4.3
+INV-00133,B,Delhi,Normal,Female,Health and beauty,598.3,1,29.92,628.22,1/13/2025,17:38,Credit card,598.3,4.761904762,29.92,7.4
+INV-00134,B,Delhi,Member,Female,Health and beauty,520.67,5,130.17,2733.52,1/13/2025,19:29,Credit card,2603.35,4.761904762,130.17,7.7
+INV-00135,A,Mumbai,Member,Female,Food and beverages,168.93,6,50.68,1064.26,1/13/2025,19:42,Credit card,1013.58,4.761904762,50.68,4.4
+INV-00136,A,Mumbai,Member,Male,Food and beverages,76.04,3,11.41,239.53,1/13/2025,19:55,Cash,228.12,4.761904762,11.41,6.7
+INV-00137,A,Mumbai,Member,Female,Electronic accessories,416.34,9,187.35,3934.41,1/13/2025,20:51,Cash,3747.06,4.761904762,187.35,5.9
+INV-00138,A,Mumbai,Member,Female,Food and beverages,199.73,10,99.86,2097.16,1/14/2025,12:03,Credit card,1997.3,4.761904762,99.86,7.2
+INV-00139,A,Mumbai,Member,Female,Sports and travel,505.62,7,176.97,3716.31,1/14/2025,12:23,Credit card,3539.34,4.761904762,176.97,9.9
+INV-00140,B,Delhi,Member,Male,Sports and travel,940.54,3,141.08,2962.7,1/14/2025,15:05,Ewallet,2821.62,4.761904762,141.08,5.9
+INV-00141,C,Bengaluru,Member,Female,Electronic accessories,391.82,8,156.73,3291.29,1/14/2025,16:34,Cash,3134.56,4.761904762,156.73,4.8
+INV-00142,B,Delhi,Member,Male,Fashion accessories,311.37,1,15.57,326.94,1/14/2025,19:42,Credit card,311.37,4.761904762,15.57,10.0
+INV-00143,C,Bengaluru,Member,Male,Fashion accessories,299.41,3,44.91,943.14,1/14/2025,19:52,Cash,898.23,4.761904762,44.91,7.9
+INV-00144,B,Delhi,Member,Male,Electronic accessories,280.59,9,126.27,2651.58,1/14/2025,20:34,Credit card,2525.31,4.761904762,126.27,7.0
+INV-00145,B,Delhi,Member,Male,Fashion accessories,683.1,6,204.93,4303.53,1/15/2025,10:23,Cash,4098.6,4.761904762,204.93,7.6
+INV-00146,B,Delhi,Member,Male,Electronic accessories,511.0,1,25.55,536.55,1/15/2025,11:42,Credit card,511.0,4.761904762,25.55,5.5
+INV-00147,A,Mumbai,Member,Male,Sports and travel,761.09,2,76.11,1598.29,1/15/2025,12:20,Credit card,1522.18,4.761904762,76.11,5.9
+INV-00148,C,Bengaluru,Member,Male,Fashion accessories,341.7,6,102.51,2152.71,1/15/2025,13:24,Credit card,2050.2,4.761904762,102.51,7.8
+INV-00149,A,Mumbai,Normal,Male,Fashion accessories,155.45,2,15.54,326.44,1/15/2025,14:00,Credit card,310.9,4.761904762,15.54,5.7
+INV-00150,C,Bengaluru,Member,Male,Food and beverages,226.28,6,67.88,1425.56,1/15/2025,14:17,Credit card,1357.68,4.761904762,67.88,7.6
+INV-00151,C,Bengaluru,Member,Female,Sports and travel,945.29,7,330.85,6947.88,1/15/2025,19:14,Ewallet,6617.03,4.761904762,330.85,7.5
+INV-00152,C,Bengaluru,Normal,Female,Home and lifestyle,438.04,10,219.02,4599.42,1/15/2025,20:15,Credit card,4380.4,4.761904762,219.02,4.0
+INV-00153,C,Bengaluru,Member,Male,Sports and travel,470.51,8,188.2,3952.28,1/15/2025,20:51,Ewallet,3764.08,4.761904762,188.2,8.5
+INV-00154,C,Bengaluru,Normal,Female,Home and lifestyle,907.34,2,90.73,1905.41,1/15/2025,20:56,Ewallet,1814.68,4.761904762,90.73,8.5
+INV-00155,C,Bengaluru,Normal,Female,Electronic accessories,617.7,7,216.2,4540.1,1/16/2025,12:39,Cash,4323.9,4.761904762,216.2,5.9
+INV-00156,B,Delhi,Normal,Male,Electronic accessories,520.34,5,130.08,2731.78,1/16/2025,12:43,Ewallet,2601.7,4.761904762,130.08,9.1
+INV-00157,C,Bengaluru,Normal,Male,Food and beverages,156.23,3,23.43,492.12,1/16/2025,13:03,Credit card,468.69,4.761904762,23.43,6.3
+INV-00158,B,Delhi,Member,Male,Health and beauty,476.66,6,143.0,3002.96,1/16/2025,14:43,Cash,2859.96,4.761904762,143.0,5.4
+INV-00159,A,Mumbai,Normal,Male,Food and beverages,254.8,6,76.44,1605.24,1/16/2025,15:12,Ewallet,1528.8,4.761904762,76.44,7.1
+INV-00160,C,Bengaluru,Normal,Female,Electronic accessories,363.13,7,127.1,2669.01,1/16/2025,15:38,Credit card,2541.91,4.761904762,127.1,5.4
+INV-00161,B,Delhi,Member,Female,Health and beauty,278.62,3,41.79,877.65,1/16/2025,17:07,Ewallet,835.86,4.761904762,41.79,7.2
+INV-00162,C,Bengaluru,Member,Female,Sports and travel,562.22,6,168.67,3541.99,1/16/2025,17:10,Cash,3373.32,4.761904762,168.67,4.1
+INV-00163,B,Delhi,Normal,Male,Health and beauty,114.36,1,5.72,120.08,1/16/2025,18:33,Cash,114.36,4.761904762,5.72,8.0
+INV-00164,A,Mumbai,Member,Female,Electronic accessories,888.91,4,177.78,3733.42,1/16/2025,20:50,Ewallet,3555.64,4.761904762,177.78,8.0
+INV-00165,A,Mumbai,Normal,Female,Home and lifestyle,561.95,7,196.68,4130.33,1/17/2025,12:27,Credit card,3933.65,4.761904762,196.68,9.8
+INV-00166,C,Bengaluru,Member,Female,Electronic accessories,256.42,5,64.1,1346.2,1/17/2025,12:45,Credit card,1282.1,4.761904762,64.1,8.4
+INV-00167,A,Mumbai,Normal,Female,Sports and travel,668.78,9,300.95,6319.97,1/17/2025,13:19,Credit card,6019.02,4.761904762,300.95,4.0
+INV-00168,C,Bengaluru,Member,Male,Fashion accessories,130.3,1,6.52,136.82,1/17/2025,13:29,Ewallet,130.3,4.761904762,6.52,8.5
+INV-00169,B,Delhi,Normal,Male,Sports and travel,876.84,6,263.05,5524.09,1/17/2025,14:13,Ewallet,5261.04,4.761904762,263.05,7.3
+INV-00170,C,Bengaluru,Member,Female,Electronic accessories,254.84,2,25.48,535.16,1/17/2025,16:08,Credit card,509.68,4.761904762,25.48,6.3
+INV-00171,B,Delhi,Normal,Male,Home and lifestyle,971.11,10,485.56,10196.66,1/17/2025,17:37,Ewallet,9711.1,4.761904762,485.56,7.5
+INV-00172,A,Mumbai,Member,Female,Sports and travel,306.22,5,76.55,1607.65,1/17/2025,18:11,Cash,1531.1,4.761904762,76.55,7.7
+INV-00173,C,Bengaluru,Normal,Female,Home and lifestyle,734.66,7,257.13,5399.75,1/17/2025,19:57,Cash,5142.62,4.761904762,257.13,10.0
+INV-00174,C,Bengaluru,Member,Male,Electronic accessories,195.29,4,39.06,820.22,1/17/2025,20:36,Credit card,781.16,4.761904762,39.06,5.7
+INV-00175,B,Delhi,Normal,Female,Sports and travel,711.98,1,35.6,747.58,1/17/2025,20:58,Credit card,711.98,4.761904762,35.6,5.8
+INV-00176,A,Mumbai,Member,Female,Fashion accessories,569.64,9,256.34,5383.1,1/18/2025,11:33,Ewallet,5126.76,4.761904762,256.34,10.0
+INV-00177,B,Delhi,Normal,Male,Fashion accessories,522.1,4,104.42,2192.82,1/18/2025,12:02,Cash,2088.4,4.761904762,104.42,4.0
+INV-00178,C,Bengaluru,Normal,Male,Sports and travel,917.42,6,275.23,5779.75,1/18/2025,12:05,Cash,5504.52,4.761904762,275.23,
+INV-00179,C,Bengaluru,Normal,Male,Health and beauty,492.84,7,172.49,3622.37,1/18/2025,12:40,Cash,3449.88,4.761904762,172.49,7.9
+INV-00180,B,Delhi,Member,Female,Home and lifestyle,804.88,1,40.24,845.12,1/18/2025,13:16,Cash,804.88,4.761904762,40.24,9.4
+INV-00181,B,Delhi,Normal,Female,Sports and travel,894.26,4,178.85,3755.89,1/18/2025,13:37,Cash,3577.04,4.761904762,178.85,6.2
+INV-00182,A,Mumbai,Normal,Male,Home and lifestyle,728.86,8,291.54,6122.42,1/18/2025,13:53,Credit card,5830.88,4.761904762,291.54,5.9
+INV-00183,A,Mumbai,Member,Male,Health and beauty,477.3,9,214.78,4510.48,1/18/2025,15:01,Credit card,4295.7,4.761904762,214.78,9.9
+INV-00184,C,Bengaluru,Normal,Male,Health and beauty,438.3,9,197.24,4141.94,1/18/2025,15:53,Ewallet,3944.7,4.761904762,197.24,5.8
+INV-00185,A,Mumbai,Member,Female,Food and beverages,337.56,6,101.27,2126.63,1/18/2025,16:00,Ewallet,2025.36,4.761904762,101.27,7.4
+INV-00186,A,Mumbai,Normal,Female,Fashion accessories,229.71,10,114.86,2411.96,1/18/2025,18:03,Ewallet,2297.1,4.761904762,114.86,9.6
+INV-00187,B,Delhi,Member,Male,Home and lifestyle,683.36,10,341.68,7175.28,1/18/2025,18:53,Ewallet,6833.6,4.761904762,341.68,7.2
+INV-00188,B,Delhi,Member,Male,Fashion accessories,315.84,9,142.13,2984.69,1/18/2025,19:25,Ewallet,2842.56,4.761904762,142.13,6.3
+INV-00189,C,Bengaluru,Member,Female,Sports and travel,338.61,9,152.37,3199.86,1/18/2025,19:27,Credit card,3047.49,4.761904762,152.37,7.7
+INV-00190,B,Delhi,Normal,Male,Fashion accessories,494.91,3,74.24,1558.97,1/18/2025,19:34,Cash,1484.73,4.761904762,74.24,7.4
+INV-00191,C,Bengaluru,Normal,Female,Electronic accessories,737.32,9,331.79,6967.67,1/18/2025,19:41,Credit card,6635.88,4.761904762,331.79,8.1
+INV-00192,C,Bengaluru,Normal,Female,Fashion accessories,364.26,1,18.21,382.47,1/18/2025,19:45,Cash,364.26,4.761904762,18.21,5.6
+INV-00193,C,Bengaluru,Normal,Male,Fashion accessories,353.68,2,35.37,742.73,1/18/2025,19:50,Cash,707.36,4.761904762,35.37,7.6
+INV-00194,C,Bengaluru,Member,Female,Fashion accessories,324.61,6,97.38,2045.04,1/18/2025,19:56,Cash,1947.66,4.761904762,97.38,6.1
+INV-00195,B,Delhi,Normal,Male,Home and lifestyle,969.55,2,96.96,2036.06,1/18/2025,20:41,Ewallet,1939.1,4.761904762,96.96,7.1
+INV-00196,A,Mumbai,Member,Male,Food and beverages,121.32,7,42.46,891.7,1/19/2025,11:04,Credit card,849.24,4.761904762,42.46,7.1
+INV-00197,B,Delhi,Normal,Female,Health and beauty,106.54,10,53.27,1118.67,1/19/2025,11:43,Credit card,1065.4,4.761904762,53.27,8.7
+INV-00198,B,Delhi,Normal,Male,Sports and travel,613.8,6,184.14,3866.94,1/19/2025,12:02,Ewallet,3682.8,4.761904762,184.14,7.0
+INV-00199,C,Bengaluru,Normal,Male,Fashion accessories,464.34,3,69.65,1462.67,1/19/2025,12:08,Credit card,1393.02,4.761904762,69.65,5.5
+INV-00200,A,Mumbai,Member,Male,Home and lifestyle,349.98,6,104.99,2204.87,1/19/2025,13:32,Ewallet,2099.88,4.761904762,104.99,5.3
+INV-00201,C,Bengaluru,Member,Male,Electronic accessories,834.42,7,292.05,6132.99,1/19/2025,13:33,Credit card,5840.94,4.761904762,292.05,
+INV-00202,C,Bengaluru,Member,Male,Health and beauty,284.13,10,142.07,2983.37,1/19/2025,15:36,Ewallet,2841.3,4.761904762,142.07,7.1
+INV-00203,B,Delhi,Member,Female,Electronic accessories,732.77,7,256.47,5385.86,1/19/2025,16:18,Credit card,5129.39,4.761904762,256.47,8.8
+INV-00204,B,Delhi,Member,Female,Fashion accessories,336.67,7,117.83,2474.52,1/19/2025,16:42,Credit card,2356.69,4.761904762,117.83,4.5
+INV-00205,A,Mumbai,Member,Female,Home and lifestyle,865.07,8,346.03,7266.59,1/19/2025,16:45,Credit card,6920.56,4.761904762,346.03,5.9
+INV-00206,A,Mumbai,Member,Male,Home and lifestyle,538.56,5,134.64,2827.44,1/19/2025,18:07,Ewallet,2692.8,4.761904762,134.64,7.2
+INV-00207,C,Bengaluru,Member,Female,Food and beverages,365.98,2,36.6,768.56,1/19/2025,18:13,Cash,731.96,4.761904762,36.6,6.4
+INV-00208,A,Mumbai,Member,Female,Home and lifestyle,463.67,7,162.28,3407.97,1/19/2025,18:16,Credit card,3245.69,4.761904762,162.28,9.1
+INV-00209,C,Bengaluru,Member,Male,Home and lifestyle,841.15,8,336.46,7065.66,1/19/2025,19:31,Credit card,6729.2,4.761904762,336.46,5.1
+INV-00210,B,Delhi,Normal,Female,Health and beauty,307.0,4,61.4,1289.4,1/20/2025,10:01,Credit card,1228.0,4.761904762,61.4,
+INV-00211,C,Bengaluru,Member,Female,Fashion accessories,623.51,8,249.4,5237.48,1/20/2025,12:10,Ewallet,4988.08,4.761904762,249.4,8.4
+INV-00212,B,Delhi,Member,Female,Sports and travel,664.38,8,265.75,5580.79,1/20/2025,13:05,Credit card,5315.04,4.761904762,265.75,6.0
+INV-00213,B,Delhi,Member,Male,Health and beauty,557.84,5,139.46,2928.66,1/20/2025,13:18,Ewallet,2789.2,4.761904762,139.46,6.9
+INV-00214,A,Mumbai,Normal,Female,Health and beauty,560.85,7,196.3,4122.25,1/20/2025,14:15,Ewallet,3925.95,4.761904762,196.3,7.0
+INV-00215,B,Delhi,Normal,Female,Home and lifestyle,786.39,7,275.24,5779.97,1/20/2025,14:30,Credit card,5504.73,4.761904762,275.24,6.7
+INV-00216,B,Delhi,Member,Male,Electronic accessories,743.99,10,372.0,7811.9,1/20/2025,16:52,Credit card,7439.9,4.761904762,372.0,10.0
+INV-00217,C,Bengaluru,Normal,Male,Home and lifestyle,932.69,6,279.81,5875.95,1/20/2025,17:44,Ewallet,5596.14,4.761904762,279.81,
+INV-00218,B,Delhi,Normal,Female,Sports and travel,682.82,9,307.27,6452.65,1/20/2025,18:38,Credit card,6145.38,4.761904762,307.27,4.0
+INV-00219,A,Mumbai,Member,Female,Fashion accessories,661.93,8,264.77,5560.21,1/20/2025,18:40,Cash,5295.44,4.761904762,264.77,6.2
+INV-00220,C,Bengaluru,Normal,Male,Fashion accessories,473.35,2,47.34,994.04,1/20/2025,18:59,Cash,946.7,4.761904762,47.34,7.5
+INV-00221,A,Mumbai,Normal,Male,Electronic accessories,231.39,3,34.71,728.88,1/20/2025,20:28,Credit card,694.17,4.761904762,34.71,5.7
+INV-00222,C,Bengaluru,Normal,Male,Electronic accessories,631.65,6,189.5,3979.4,1/21/2025,11:03,Ewallet,3789.9,4.761904762,189.5,4.0
+INV-00223,B,Delhi,Normal,Female,Fashion accessories,404.89,1,20.24,425.13,1/21/2025,12:06,Ewallet,404.89,4.761904762,20.24,5.4
+INV-00224,A,Mumbai,Normal,Male,Fashion accessories,636.2,1,31.81,668.01,1/21/2025,12:22,Ewallet,636.2,4.761904762,31.81,4.0
+INV-00225,A,Mumbai,Member,Female,Fashion accessories,562.84,7,196.99,4136.87,1/21/2025,14:27,Credit card,3939.88,4.761904762,196.99,6.8
+INV-00226,B,Delhi,Normal,Female,Electronic accessories,554.66,8,221.86,4659.14,1/21/2025,14:36,Cash,4437.28,4.761904762,221.86,9.2
+INV-00227,C,Bengaluru,Normal,Male,Health and beauty,438.64,10,219.32,4605.72,1/21/2025,15:17,Credit card,4386.4,4.761904762,219.32,6.2
+INV-00228,A,Mumbai,Normal,Female,Fashion accessories,407.34,5,101.84,2138.54,1/21/2025,15:25,Cash,2036.7,4.761904762,101.84,9.0
+INV-00229,B,Delhi,Normal,Female,Sports and travel,560.6,2,56.06,1177.26,1/21/2025,15:36,Ewallet,1121.2,4.761904762,56.06,4.0
+INV-00230,C,Bengaluru,Normal,Female,Food and beverages,245.94,9,110.67,2324.13,1/21/2025,16:36,Credit card,2213.46,4.761904762,110.67,8.7
+INV-00231,C,Bengaluru,Member,Male,Home and lifestyle,403.2,4,80.64,1693.44,1/21/2025,16:56,Credit card,1612.8,4.761904762,80.64,6.0
+INV-00232,A,Mumbai,Normal,Female,Food and beverages,70.53,1,3.53,74.06,1/21/2025,18:43,Ewallet,70.53,4.761904762,3.53,7.9
+INV-00233,C,Bengaluru,Normal,Female,Health and beauty,519.58,4,103.92,2182.24,1/21/2025,18:52,Ewallet,2078.32,4.761904762,103.92,6.6
+INV-00234,C,Bengaluru,Normal,Female,Electronic accessories,753.64,1,37.68,791.32,1/21/2025,18:56,Credit card,753.64,4.761904762,37.68,6.7
+INV-00235,C,Bengaluru,Normal,Male,Health and beauty,508.69,2,50.87,1068.25,1/21/2025,19:11,Ewallet ,1017.38,4.761904762,50.87,7.8
+INV-00236,C,Bengaluru,Member,Female,Home and lifestyle,930.36,10,465.18,9768.78,1/21/2025,20:41,Ewallet,9303.6,4.761904762,465.18,9.2
+INV-00237,C,Bengaluru,Normal,Female,Fashion accessories,499.34,3,74.9,1572.92,1/22/2025,10:13,Cash,1498.02,4.761904762,74.9,6.6
+INV-00238,A,Mumbai,Member,Male,Electronic accessories,674.55,9,303.55,6374.5,1/22/2025,10:52,Credit card,6070.95,4.761904762,303.55,10.0
+INV-00239,A,Mumbai,Normal,Female,Electronic accessories,202.11,1,10.11,212.22,1/22/2025,19:27,Credit card,202.11,4.761904762,10.11,7.4
+INV-00240,C,Bengaluru,Normal,Male,Food and beverages,292.94,9,131.82,2768.28,1/22/2025,19:56,Cash,2636.46,4.761904762,131.82,6.9
+INV-00241,B,Delhi,Member,Female,Home and lifestyle,423.59,10,211.8,4447.7,1/22/2025,20:15,Credit card,4235.9,4.761904762,211.8,6.6
+INV-00242,B,Delhi,Member,Male,Electronic accessories,483.18,10,241.59,5073.39,1/22/2025,20:48,Ewallet,4831.8,4.761904762,241.59,7.2
+INV-00243,C,Bengaluru,Member,Female,Sports and travel,823.6,4,164.72,3459.12,1/23/2025,10:16,Credit card,3294.4,4.761904762,164.72,6.2
+INV-00244,C,Bengaluru,Member,Male,Home and lifestyle,334.55,2,33.46,702.56,1/23/2025,11:32,Cash,669.1,4.761904762,33.46,6.6
+INV-00245,A,Mumbai,Member,Female,Food and beverages,148.49,6,44.55,935.49,1/23/2025,12:34,Cash,890.94,4.761904762,44.55,8.3
+INV-00246,B,Delhi,Normal,Female,Food and beverages,171.83,4,34.37,721.69,1/23/2025,14:44,Credit card,687.32,4.761904762,34.37,7.2
+INV-00247,A,Mumbai,Normal,Male,Fashion accessories,333.91,9,150.26,3155.45,1/23/2025,16:20,Credit card,3005.19,4.761904762,150.26,6.2
+INV-00248,C,Bengaluru,Normal,Female,Health and beauty,174.73,8,69.89,1467.73,1/23/2025,16:58,Cash,1397.84,4.761904762,69.89,4.9
+INV-00249,B,Delhi,Normal,Female,Electronic accessories,408.16,8,163.26,3428.54,1/23/2025,18:08,Credit card,3265.28,4.761904762,163.26,9.5
+INV-00250,B,Delhi,Normal,Male,Health and beauty,538.69,8,215.48,4525.0,1/23/2025,18:38,Credit card,4309.52,4.761904762,215.48,6.6
+INV-00251,A,Mumbai,Normal,Male,Health and beauty,377.54,7,132.14,2774.92,1/23/2025,19:33,Ewallet,2642.78,4.761904762,132.14,5.6
+INV-00252,C,Bengaluru,Normal,Male,Sports and travel,212.47,3,31.87,669.28,1/23/2025,20:22,Credit card,637.41,4.761904762,31.87,8.9
+INV-00253,C,Bengaluru,Member,Female,Fashion accessories,542.53,9,244.14,5126.91,1/24/2025,11:42,Ewallet,4882.77,4.761904762,244.14,6.1
+INV-00254,C,Bengaluru,Normal,Female,Electronic accessories,332.06,4,66.41,1394.65,1/24/2025,12:24,Ewallet,1328.24,4.761904762,66.41,7.6
+INV-00255,B,Delhi,Member,Female,Food and beverages,163.8,10,81.9,1719.9,1/24/2025,13:22,Cash,1638.0,4.761904762,81.9,5.0
+INV-00256,A,Mumbai,Member,Female,Home and lifestyle,360.42,6,108.13,2270.65,1/24/2025,16:35,Cash,2162.52,4.761904762,108.13,9.4
+INV-00257,C,Bengaluru,Normal,Female,Health and beauty,123.5,10,61.75,1296.75,1/24/2025,17:13,Credit card,1235.0,4.761904762,61.75,10.0
+INV-00258,B,Delhi,Member,Female,Fashion accessories,278.09,8,111.24,2335.96,1/24/2025,18:05,Cash,2224.72,4.761904762,111.24,8.8
+INV-00259,B,Delhi,Normal,Male,Electronic accessories,214.57,8,85.83,1802.39,1/24/2025,18:06,Cash,1716.56,4.761904762,85.83,6.5
+INV-00260,A,Mumbai,Normal,Male,Food and beverages,214.03,2,21.4,449.46,1/24/2025,18:41,Ewallet,428.06,4.761904762,21.4,7.1
+INV-00261,A,Mumbai,Normal,Male,Electronic accessories,168.65,2,16.87,354.17,1/25/2025,10:31,Cash,337.3,4.761904762,16.87,8.7
+INV-00262,B,Delhi,Normal,Male,Health and beauty,96.52,6,28.96,608.08,1/25/2025,11:36,Ewallet,579.12,4.761904762,28.96,7.6
+INV-00263,A,Mumbai,Normal,Male,Sports and travel,898.84,5,224.71,4718.91,1/25/2025,11:59,Cash,4494.2,4.761904762,224.71,5.3
+INV-00264,A,Mumbai,Member,Male,Fashion accessories,232.86,6,69.86,1467.02,1/25/2025,12:26,Ewallet,1397.16,4.761904762,69.86,6.9
+INV-00265,B,Delhi,Member,Female,Sports and travel,661.63,6,198.49,4168.27,1/25/2025,14:24,Cash,3969.78,4.761904762,198.49,7.5
+INV-00266,C,Bengaluru,Member,Male,Home and lifestyle,425.63,1,21.28,446.91,1/25/2025,14:55,Ewallet,425.63,4.761904762,21.28,7.1
+INV-00267,C,Bengaluru,Member,Male,Fashion accessories,161.3,10,80.65,1693.65,1/25/2025,16:07,Credit card,1613.0,4.761904762,80.65,5.5
+INV-00268,A,Mumbai,Normal,Male,Sports and travel,405.62,9,182.53,3833.11,1/25/2025,16:41,Cash,3650.58,4.761904762,182.53,5.6
+INV-00269,B,Delhi,Member,Male,Fashion accessories,178.22,5,44.56,935.66,1/25/2025,17:29,Ewallet,891.1,4.761904762,44.56,4.2
+INV-00270,C,Bengaluru,Member,Male,Fashion accessories,520.59,8,208.24,4372.96,1/25/2025,18:35,Ewallet,4164.72,4.761904762,208.24,6.0
+INV-00271,C,Bengaluru,Normal,Male,Home and lifestyle,278.51,6,83.55,1754.61,1/25/2025,19:00,Ewallet,1671.06,4.761904762,83.55,7.8
+INV-00272,B,Delhi,Normal,Male,Health and beauty,147.95,2,14.8,310.7,1/25/2025,19:01,Cash,295.9,4.761904762,14.8,4.8
+INV-00273,C,Bengaluru,Normal,Female,Food and beverages,171.48,1,8.57,180.05,1/25/2025,20:48,Cash,171.48,4.761904762,8.57,7.8
+INV-00274,B,Delhi,Member,Female,Health and beauty,551.49,5,137.87,2895.32,1/26/2025,12:11,Credit card,2757.45,4.761904762,137.87,6.9
+INV-00275,A,Mumbai,Member,Female,Health and beauty,593.41,4,118.68,2492.32,1/26/2025,14:31,Cash,2373.64,4.761904762,118.68,4.3
+INV-00276,C,Bengaluru,Normal,Male,Food and beverages,138.15,9,62.17,1305.52,1/26/2025,14:53,Credit card,1243.35,4.761904762,62.17,9.4
+INV-00277,B,Delhi,Member,Male,Health and beauty,436.62,10,218.31,4584.51,1/26/2025,15:03,Ewallet,4366.2,4.761904762,218.31,9.8
+INV-00278,C,Bengaluru,Normal,Male,Health and beauty,442.92,4,88.58,1860.26,1/26/2025,15:13,Ewallet,1771.68,4.761904762,88.58,7.3
+INV-00279,B,Delhi,Member,Female,Sports and travel,785.75,10,392.88,8250.38,1/26/2025,15:13,Credit card,7857.5,4.761904762,392.88,5.6
+INV-00280,C,Bengaluru,Member,Male,Health and beauty,535.34,1,26.77,562.11,1/26/2025,15:19,Credit card,535.34,4.761904762,26.77,7.9
+INV-00281,B,Delhi,Member,Male,Home and lifestyle,368.26,5,92.06,1933.36,1/26/2025,17:31,Cash,1841.3,4.761904762,92.06,6.0
+INV-00282,A,Mumbai,Member,Male,Electronic accessories,812.73,4,162.55,3413.47,1/26/2025,17:38,Cash,3250.92,4.761904762,162.55,6.0
+INV-00283,B,Delhi,Member,Male,Health and beauty,430.44,10,215.22,4519.62,1/26/2025,18:58,Credit card,4304.4,4.761904762,215.22,7.2
+INV-00284,B,Delhi,Normal,Female,Health and beauty,373.15,10,186.58,3918.08,1/26/2025,19:32,Ewallet,3731.5,4.761904762,186.58,9.4
+INV-00285,C,Bengaluru,Normal,Female,Sports and travel,553.13,4,110.63,2323.15,1/26/2025,19:42,Credit card,2212.52,4.761904762,110.63,6.6
+INV-00286,A,Mumbai,Member,Female,Food and beverages,317.24,9,142.76,2997.92,1/26/2025,19:46,Cash,2855.16,4.761904762,142.76,4.0
+INV-00287,B,Delhi,Member,Female,Electronic accessories,269.11,10,134.56,2825.66,1/26/2025,19:51,Cash,2691.1,4.761904762,134.56,6.6
+INV-00288,C,Bengaluru,Normal,Female,Electronic accessories,292.84,4,58.57,1229.93,1/26/2025,19:53,Credit card,1171.36,4.761904762,58.57,10.0
+INV-00289,A,Mumbai,Member,Male,Food and beverages,347.51,2,34.75,729.77,1/26/2025,19:58,Ewallet,695.02,4.761904762,34.75,9.0
+INV-00290,A,Mumbai,Normal,Female,Food and beverages,262.04,10,131.02,2751.42,1/26/2025,20:05,Credit card,2620.4,4.761904762,131.02,7.6
+INV-00291,A,Mumbai,Normal,Male,Health and beauty,98.52,1,4.93,103.45,1/27/2025,11:08,Cash,98.52,4.761904762,4.93,7.2
+INV-00292,B,Delhi,Member,Male,Sports and travel,498.61,3,74.79,1570.62,1/27/2025,13:51,Credit card,1495.83,4.761904762,74.79,4.2
+INV-00293,C,Bengaluru,Normal,Male,Food and beverages,207.39,2,20.74,435.52,1/27/2025,15:13,Ewallet,414.78,4.761904762,20.74,8.1
+INV-00294,B,Delhi,Member,Female,Home and lifestyle,635.39,6,190.62,4002.96,1/27/2025,15:24,Cash,3812.34,4.761904762,190.62,6.8
+INV-00295,B,Delhi,Member,Female,Health and beauty,530.13,5,132.53,2783.18,1/27/2025,19:23,Cash,2650.65,4.761904762,132.53,5.5
+INV-00296,B,Delhi,Member,Male,Health and beauty,159.11,8,63.64,1336.52,1/27/2025,19:59,Credit card,1272.88,4.761904762,63.64,4.2
+INV-00297,C,Bengaluru,Normal,Female,Electronic accessories,630.97,2,63.1,1325.04,1/27/2025,20:32,Ewallet,1261.94,4.761904762,63.1,7.8
+INV-00298,C,Bengaluru,Normal,Female,Home and lifestyle,612.11,8,244.84,5141.72,1/28/2025,11:00,Ewallet,4896.88,4.761904762,244.84,6.9
+INV-00299,A,Mumbai,Normal,Male,Fashion accessories,215.29,10,107.65,2260.55,1/28/2025,12:19,Ewallet,2152.9,4.761904762,107.65,8.8
+INV-00300,C,Bengaluru,Normal,Female,Food and beverages,399.36,8,159.74,3354.62,1/28/2025,13:03,Ewallet,3194.88,4.761904762,159.74,4.4
+INV-00301,C,Bengaluru,Normal,Female,Fashion accessories,448.24,9,201.71,4235.87,1/28/2025,13:04,Cash,4034.16,4.761904762,201.71,7.7
+INV-00302,C,Bengaluru,Member,Male,Fashion accessories,508.85,8,203.54,4274.34,1/28/2025,13:10,Ewallet,4070.8,4.761904762,203.54,6.6
+INV-00303,C,Bengaluru,Normal,Female,Food and beverages,217.49,10,108.74,2283.64,1/28/2025,13:38,Credit card,2174.9,4.761904762,108.74,8.6
+INV-00304,C,Bengaluru,Member,Male,Food and beverages,369.74,10,184.87,3882.27,1/28/2025,14:04,Credit card,3697.4,4.761904762,184.87,8.1
+INV-00305,B,Delhi,Normal,Female,Sports and travel,372.91,8,149.16,3132.44,1/28/2025,14:07,Cash,2983.28,4.761904762,149.16,6.5
+INV-00306,B,Delhi,Member,Male,Health and beauty,531.84,5,132.96,2792.16,1/28/2025,16:05,Cash,2659.2,4.761904762,132.96,5.9
+INV-00307,B,Delhi,Normal,Male,Food and beverages,245.04,6,73.51,1543.75,1/28/2025,16:10,Cash,1470.24,4.761904762,73.51,10.0
+INV-00308,B,Delhi,Member,Male,Fashion accessories,340.81,6,102.24,2147.1,1/28/2025,17:00,Cash,2044.86,4.761904762,102.24,7.0
+INV-00309,A,Mumbai,Member,Female,Fashion accessories,330.82,10,165.41,3473.61,1/28/2025,19:33,Cash,3308.2,4.761904762,165.41,9.6
+INV-00310,B,Delhi,Member,Male,Fashion accessories,669.31,9,301.19,6324.98,1/29/2025,11:35,Credit card,6023.79,4.761904762,301.19,
+INV-00311,A,Mumbai,Member,Male,Food and beverages,194.69,7,68.14,1430.97,1/29/2025,13:54,Cash,1362.83,4.761904762,68.14,6.3
+INV-00312,C,Bengaluru,Member,Male,Fashion accessories,420.23,9,189.1,3971.17,1/29/2025,13:57,Cash,3782.07,4.761904762,189.1,7.9
+INV-00313,A,Mumbai,Member,Male,Sports and travel,433.52,3,65.03,1365.59,1/29/2025,14:19,Credit card,1300.56,4.761904762,65.03,8.8
+INV-00314,C,Bengaluru,Member,Female,Home and lifestyle,511.23,1,25.56,536.79,1/29/2025,17:49,Cash,511.23,4.761904762,25.56,9.2
+INV-00315,A,Mumbai,Member,Male,Sports and travel,889.07,9,400.08,8401.71,1/29/2025,18:12,Ewallet,8001.63,4.761904762,400.08,5.5
+INV-00316,B,Delhi,Member,Female,Fashion accessories,319.45,6,95.84,2012.54,1/29/2025,18:24,Ewallet,1916.7,4.761904762,95.84,8.1
+INV-00317,A,Mumbai,Normal,Male,Food and beverages,293.74,5,73.44,1542.14,1/29/2025,19:35,Cash,1468.7,4.761904762,73.44,
+INV-00318,B,Delhi,Normal,Male,Electronic accessories,775.36,1,38.77,814.13,1/29/2025,19:58,Ewallet,775.36,4.761904762,38.77,
+INV-00319,B,Delhi,Member,Female,Sports and travel,416.69,7,145.84,3062.67,1/30/2025,13:02,Cash,2916.83,4.761904762,145.84,8.9
+INV-00320,B,Delhi,Normal,Female,Home and lifestyle,637.77,4,127.55,2678.63,1/30/2025,13:47,Cash,2551.08,4.761904762,127.55,9.1
+INV-00321,A,Mumbai,Member,Female,Health and beauty,434.19,10,217.1,4559.0,1/30/2025,16:35,Cash,4341.9,4.761904762,217.1,7.4
+INV-00322,A,Mumbai,Member,Female,Health and beauty,173.6,8,69.44,1458.24,1/30/2025,16:55,Credit card,1388.8,4.761904762,69.44,5.8
+INV-00323,C,Bengaluru,Normal,Female,Food and beverages,171.3,6,51.39,1079.19,1/30/2025,17:18,Ewallet,1027.8,4.761904762,51.39,4.0
+INV-00324,C,Bengaluru,Normal,Female,Health and beauty,449.33,2,44.93,943.59,1/30/2025,17:40,Cash,898.66,4.761904762,44.93,6.8
+INV-00325,B,Delhi,Normal,Female,Sports and travel,420.03,6,126.01,2646.19,1/30/2025,18:11,Ewallet,2520.18,4.761904762,126.01,6.6
+INV-00326,C,Bengaluru,Member,Male,Sports and travel,491.79,3,73.77,1549.14,1/30/2025,18:13,Ewallet,1475.37,4.761904762,73.77,9.6
+INV-00327,C,Bengaluru,Member,Male,Sports and travel,171.23,8,68.49,1438.33,1/30/2025,18:19,Credit card,1369.84,4.761904762,68.49,6.4
+INV-00328,B,Delhi,Member,Female,Food and beverages,248.73,8,99.49,2089.33,1/30/2025,19:28,Ewallet,1989.84,4.761904762,99.49,7.4
+INV-00329,C,Bengaluru,Normal,Male,Fashion accessories,393.9,2,39.39,827.19,1/30/2025,20:09,Ewallet,787.8,4.761904762,39.39,6.0
+INV-00330,B,Delhi,Member,Male,Electronic accessories,899.7,6,269.91,5668.11,1/30/2025,20:28,Cash,5398.2,4.761904762,269.91,6.0
+INV-00331,B,Delhi,Normal,Female,Electronic accessories,531.29,2,53.13,1115.71,1/31/2025,10:48,Credit card,1062.58,4.761904762,53.13,5.9
+INV-00332,B,Delhi,Normal,Male,Home and lifestyle,901.91,4,180.38,3788.02,1/31/2025,11:22,Credit card,3607.64,4.761904762,180.38,6.7
+INV-00333,C,Bengaluru,Member,Female,Home and lifestyle,911.94,6,273.58,5745.22,1/31/2025,12:34,Ewallet,5471.64,4.761904762,273.58,5.8
+INV-00334,B,Delhi,Normal,Female,Health and beauty,454.18,2,45.42,953.78,1/31/2025,13:28,Credit card,908.36,4.761904762,45.42,5.7
+INV-00335,B,Delhi,Member,Male,Fashion accessories,391.35,5,97.84,2054.59,1/31/2025,15:04,Cash,1956.75,4.761904762,97.84,6.5
+INV-00336,C,Bengaluru,Member,Male,Food and beverages,135.46,8,54.18,1137.86,1/31/2025,17:32,Credit card,1083.68,4.761904762,54.18,7.4
+INV-00337,A,Mumbai,Normal,Female,Food and beverages,283.98,7,99.39,2087.25,1/31/2025,17:40,Cash,1987.86,4.761904762,99.39,6.2
+INV-00338,C,Bengaluru,Normal,Female,Sports and travel,655.15,7,229.3,4815.35,1/31/2025,18:22,Credit card,4586.05,4.761904762,229.3,9.7
+INV-00339,B,Delhi,Member,Male,Electronic accessories,896.63,5,224.16,4707.31,1/31/2025,18:44,Credit card,4483.15,4.761904762,224.16,6.5
+INV-00340,B,Delhi,Member,Female,Fashion accessories,693.33,1,34.67,728.0,2/1/2025,11:59,Credit card,693.33,4.761904762,34.67,4.0
+INV-00341,B,Delhi,Normal,Female,Electronic accessories,625.29,1,31.26,656.55,2/1/2025,12:10,Credit card,625.29,4.761904762,31.26,7.9
+INV-00342,A,Mumbai,Member,Female,Sports and travel,281.62,9,126.73,2661.31,2/1/2025,13:06,Cash,2534.58,4.761904762,126.73,5.3
+INV-00343,B,Delhi,Normal,Male,Fashion accessories,157.91,2,15.79,331.61,2/1/2025,13:36,Credit card,315.82,4.761904762,15.79,7.4
+INV-00344,C,Bengaluru,Normal,Female,Sports and travel,873.0,4,174.6,3666.6,2/1/2025,13:39,Ewallet,3492.0,4.761904762,174.6,5.9
+INV-00345,B,Delhi,Member,Female,Fashion accessories,609.78,10,304.89,6402.69,2/1/2025,13:39,Ewallet,6097.8,4.761904762,304.89,5.2
+INV-00346,C,Bengaluru,Normal,Female,Health and beauty,361.84,3,54.28,1139.8,2/1/2025,13:48,Ewallet,1085.52,4.761904762,54.28,5.6
+INV-00347,A,Mumbai,Member,Female,Home and lifestyle,725.36,1,36.27,761.63,2/1/2025,14:58,Credit card,725.36,4.761904762,36.27,9.4
+INV-00348,B,Delhi,Normal,Female,Sports and travel,804.84,9,362.18,7605.74,2/1/2025,18:02,Ewallet,7243.56,4.761904762,362.18,9.1
+INV-00349,B,Delhi,Member,Male,Sports and travel,516.58,9,232.46,4881.68,2/2/2025,10:44,Ewallet,4649.22,4.761904762,232.46,8.3
+INV-00350,B,Delhi,Member,Male,Health and beauty,552.82,6,165.85,3482.77,2/2/2025,11:56,Ewallet,3316.92,4.761904762,165.85,7.6
+INV-00351,C,Bengaluru,Member,Female,Food and beverages,348.06,5,87.02,1827.32,2/2/2025,15:18,Ewallet,1740.3,4.761904762,87.02,7.5
+INV-00352,A,Mumbai,Member,Female,Food and beverages,319.69,9,143.86,3021.07,2/2/2025,15:22,Credit card,2877.21,4.761904762,143.86,4.8
+INV-00353,B,Delhi,Normal,Male,Health and beauty,420.21,3,63.03,1323.66,2/2/2025,15:52,Ewallet,1260.63,4.761904762,63.03,5.8
+INV-00354,C,Bengaluru,Member,Female,Fashion accessories,666.93,4,133.39,2801.11,2/2/2025,16:06,Ewallet,2667.72,4.761904762,133.39,7.3
+INV-00355,A,Mumbai,Member,Male,Sports and travel,606.08,9,272.74,5727.46,2/2/2025,17:25,Ewallet,5454.72,4.761904762,272.74,9.8
+INV-00356,C,Bengaluru,Normal,Female,Health and beauty,310.68,5,77.67,1631.07,2/2/2025,18:05,Credit card,1553.4,4.761904762,77.67,6.6
+INV-00357,A,Mumbai,Member,Female,Sports and travel,812.74,3,121.91,2560.13,2/2/2025,18:36,Cash,2438.22,4.761904762,121.91,8.2
+INV-00358,C,Bengaluru,Normal,Female,Fashion accessories,443.32,9,199.49,4189.37,2/2/2025,19:11,Ewallet,3989.88,4.761904762,199.49,5.3
+INV-00359,A,Mumbai,Member,Female,Home and lifestyle,289.08,5,72.27,1517.67,2/2/2025,19:41,Cash,1445.4,4.761904762,72.27,5.7
+INV-00360,C,Bengaluru,Normal,Male,Home and lifestyle,237.91,7,83.27,1748.64,2/2/2025,19:53,Credit card,1665.37,4.761904762,83.27,5.3
+INV-00361,B,Delhi,Normal,Female,Electronic accessories,226.69,8,90.68,1904.2,2/2/2025,20:07,Cash,1813.52,4.761904762,90.68,5.3
+INV-00362,B,Delhi,Normal,Female,Electronic accessories,566.16,10,283.08,5944.68,2/2/2025,20:32,Credit card,5661.6,4.761904762,283.08,6.9
+INV-00363,C,Bengaluru,Normal,Male,Health and beauty,250.78,1,12.54,263.32,2/2/2025,20:36,Ewallet,250.78,4.761904762,12.54,8.7
+INV-00364,B,Delhi,Normal,Male,Health and beauty,264.77,6,79.43,1668.05,2/2/2025,20:48,Credit card,1588.62,4.761904762,79.43,6.3
+INV-00365,B,Delhi,Normal,Male,Home and lifestyle,308.71,8,123.48,2593.16,2/2/2025,20:54,Cash,2469.68,4.761904762,123.48,9.5
+INV-00366,C,Bengaluru,Member,Female,Health and beauty,84.17,4,16.83,353.51,2/3/2025,11:06,Cash,336.68,4.761904762,16.83,8.3
+INV-00367,A,Mumbai,Normal,Male,Food and beverages,270.15,9,121.57,2552.92,2/3/2025,11:26,Cash,2431.35,4.761904762,121.57,9.4
+INV-00368,B,Delhi,Normal,Female,Food and beverages,394.77,4,78.95,1658.03,2/3/2025,12:29,Cash,1579.08,4.761904762,78.95,8.5
+INV-00369,B,Delhi,Normal,Male,Food and beverages,117.08,3,17.56,368.8,2/3/2025,15:56,Credit card,351.24,4.761904762,17.56,9.5
+INV-00370,A,Mumbai,Member,Female,Home and lifestyle,917.47,9,412.86,8670.09,2/3/2025,16:24,Credit card,8257.23,4.761904762,412.86,5.3
+INV-00371,C,Bengaluru,Normal,Male,Home and lifestyle,322.12,9,144.95,3044.03,2/3/2025,16:32,Credit card,2899.08,4.761904762,144.95,7.0
+INV-00372,A,Mumbai,Normal,Male,Fashion accessories,471.87,5,117.97,2477.32,2/3/2025,18:02,Cash,2359.35,4.761904762,117.97,9.7
+INV-00373,A,Mumbai,Normal,Female,Health and beauty,563.08,8,225.23,4729.87,2/3/2025,18:29,Credit card,4504.64,4.761904762,225.23,4.4
+INV-00374,C,Bengaluru,Member,Female,Food and beverages,275.79,3,41.37,868.74,2/3/2025,19:29,Ewallet,827.37,4.761904762,41.37,9.5
+INV-00375,A,Mumbai,Normal,Female,Electronic accessories,402.73,8,161.09,3382.93,2/3/2025,20:37,Credit card,3221.84,4.761904762,161.09,10.0
+INV-00376,A,Mumbai,Normal,Female,Sports and travel,841.01,4,168.2,3532.24,2/3/2025,20:55,Ewallet,3364.04,4.761904762,168.2,7.5
+INV-00377,B,Delhi,Member,Female,Sports and travel,389.77,7,136.42,2864.81,2/4/2025,10:06,Credit card,2728.39,4.761904762,136.42,7.9
+INV-00378,B,Delhi,Normal,Female,Home and lifestyle,820.65,7,287.23,6031.78,2/4/2025,14:15,Ewallet,5744.55,4.761904762,287.23,6.1
+INV-00379,B,Delhi,Member,Female,Fashion accessories,514.39,5,128.6,2700.55,2/4/2025,14:26,Credit card,2571.95,4.761904762,128.6,7.0
+INV-00380,B,Delhi,Normal,Female,Fashion accessories,137.95,10,68.98,1448.48,2/4/2025,14:46,Credit card,1379.5,4.761904762,68.98,7.5
+INV-00381,C,Bengaluru,Normal,Male,Home and lifestyle,243.07,10,121.54,2552.24,2/4/2025,15:02,Cash,2430.7,4.761904762,121.54,5.2
+INV-00382,B,Delhi,Member,Male,Electronic accessories,272.69,7,95.44,2004.27,2/4/2025,15:42,Ewallet,1908.83,4.761904762,95.44,8.9
+INV-00383,B,Delhi,Member,Female,Home and lifestyle,477.72,4,95.54,2006.42,2/4/2025,16:05,Ewallet,1910.88,4.761904762,95.54,7.6
+INV-00384,A,Mumbai,Member,Female,Sports and travel,800.3,3,120.05,2520.95,2/4/2025,16:21,Cash,2400.9,4.761904762,120.05,5.6
+INV-00385,C,Bengaluru,Normal,Female,Electronic accessories,818.58,3,122.79,2578.53,2/4/2025,18:19,Credit card,2455.74,4.761904762,122.79,4.4
+INV-00386,B,Delhi,Normal,Male,Electronic accessories,348.25,8,139.3,2925.3,2/4/2025,20:12,Ewallet,2786.0,4.761904762,139.3,8.6
+INV-00387,A,Mumbai,Member,Female,Sports and travel,472.28,10,236.14,4958.94,2/5/2025,11:09,Credit card,4722.8,4.761904762,236.14,9.3
+INV-00388,B,Delhi,Member,Female,Sports and travel,429.01,10,214.51,4504.61,2/5/2025,11:40,Ewallet,4290.1,4.761904762,214.51,7.7
+INV-00389,A,Mumbai,Member,Male,Sports and travel,683.13,9,307.41,6455.58,2/5/2025,12:11,Credit card,6148.17,4.761904762,307.41,6.5
+INV-00390,B,Delhi,Normal,Male,Electronic accessories,819.2,1,40.96,860.16,2/5/2025,12:36,Ewallet,819.2,4.761904762,40.96,6.2
+INV-00391,B,Delhi,Member,Female,Electronic accessories,546.63,5,136.66,2869.81,2/5/2025,13:12,Credit card,2733.15,4.761904762,136.66,7.6
+INV-00392,C,Bengaluru,Member,Male,Health and beauty,214.68,7,75.14,1577.9,2/5/2025,13:24,Credit card,1502.76,4.761904762,75.14,8.1
+INV-00393,C,Bengaluru,Member,Female,Electronic accessories,564.08,6,169.22,3553.7,2/5/2025,15:23,Credit card,3384.48,4.761904762,169.22,6.3
+INV-00394,A,Mumbai,Member,Female,Fashion accessories,196.88,3,29.53,620.17,2/5/2025,15:33,Credit card,590.64,4.761904762,29.53,8.1
+INV-00395,A,Mumbai,Member,Female,Sports and travel,835.35,8,334.14,7016.94,2/5/2025,16:42,Credit card,6682.8,4.761904762,334.14,6.7
+INV-00396,B,Delhi,Normal,Female,Fashion accessories,269.75,1,13.49,283.24,2/5/2025,16:44,Cash,269.75,4.761904762,13.49,4.0
+INV-00397,B,Delhi,Member,Female,Electronic accessories,734.96,9,330.73,6945.37,2/5/2025,17:54,Cash,6614.64,4.761904762,330.73,7.8
+INV-00398,C,Bengaluru,Normal,Male,Food and beverages,168.42,1,8.42,176.84,2/5/2025,18:37,Ewallet,168.42,4.761904762,8.42,6.2
+INV-00399,A,Mumbai,Normal,Female,Health and beauty,118.53,8,47.41,995.65,2/5/2025,20:48,Ewallet,948.24,4.761904762,47.41,8.5
+INV-00400,C,Bengaluru,Normal,Male,Health and beauty,108.18,10,54.09,1135.89,2/6/2025,10:28,Credit card,1081.8,4.761904762,54.09,7.7
+INV-00401,C,Bengaluru,Member,Male,Electronic accessories,433.59,8,173.44,3642.16,2/6/2025,10:33,Credit card,3468.72,4.761904762,173.44,5.0
+INV-00402,A,Mumbai,Normal,Female,Health and beauty,332.38,5,83.1,1745.0,2/6/2025,13:16,Cash,1661.9,4.761904762,83.1,6.7
+INV-00403,C,Bengaluru,Member,Female,Fashion accessories,150.85,10,75.42,1583.92,2/6/2025,13:48,Credit card,1508.5,4.761904762,75.42,6.4
+INV-00404,A,Mumbai,Normal,Male,Sports and travel,224.65,8,89.86,1887.06,2/6/2025,17:38,Credit card,1797.2,4.761904762,89.86,9.1
+INV-00405,C,Bengaluru,Member,Male,Health and beauty,495.44,6,148.63,3121.27,2/6/2025,18:24,Cash,2972.64,4.761904762,148.63,7.7
+INV-00406,C,Bengaluru,Member,Female,Food and beverages,275.55,5,68.89,1446.64,2/6/2025,19:26,Cash,1377.75,4.761904762,68.89,4.8
+INV-00407,A,Mumbai,Normal,Female,Food and beverages,223.99,1,11.2,235.19,2/6/2025,19:30,Ewallet,223.99,4.761904762,11.2,6.8
+INV-00408,B,Delhi,Member,Female,Sports and travel,811.78,9,365.3,7671.32,2/6/2025,19:45,Credit card,7306.02,4.761904762,365.3,5.7
+INV-00409,C,Bengaluru,Normal,Male,Electronic accessories,341.14,10,170.57,3581.97,2/6/2025,19:58,Cash,3411.4,4.761904762,170.57,5.0
+INV-00410,B,Delhi,Member,Male,Sports and travel,450.72,8,180.29,3786.05,2/7/2025,13:52,Credit card,3605.76,4.761904762,180.29,7.9
+INV-00411,C,Bengaluru,Member,Female,Electronic accessories,841.63,8,336.65,7069.69,2/7/2025,15:08,Cash,6733.04,4.761904762,336.65,6.9
+INV-00412,C,Bengaluru,Normal,Male,Electronic accessories,554.21,3,83.13,1745.76,2/7/2025,16:05,Ewallet,1662.63,4.761904762,83.13,9.4
+INV-00413,C,Bengaluru,Normal,Male,Electronic accessories,187.36,4,37.47,786.91,2/7/2025,16:15,Cash,749.44,4.761904762,37.47,5.9
+INV-00414,C,Bengaluru,Member,Male,Sports and travel,164.3,10,82.15,1725.15,2/7/2025,18:57,Ewallet,1643.0,4.761904762,82.15,9.4
+INV-00415,C,Bengaluru,Normal,Female,Food and beverages,125.57,5,31.39,659.24,2/7/2025,19:05,Credit card,627.85,4.761904762,31.39,8.1
+INV-00416,B,Delhi,Normal,Female,Electronic accessories,304.23,7,106.48,2236.09,2/7/2025,19:10,Cash,2129.61,4.761904762,106.48,8.8
+INV-00417,A,Mumbai,Member,Female,Health and beauty,225.45,2,22.54,473.44,2/7/2025,19:36,Cash,450.9,4.761904762,22.54,6.3
+INV-00418,C,Bengaluru,Member,Female,Food and beverages,378.54,9,170.34,3577.2,2/7/2025,20:10,Credit card,3406.86,4.761904762,170.34,4.9
+INV-00419,C,Bengaluru,Member,Female,Electronic accessories,878.4,7,307.44,6456.24,2/7/2025,20:39,Credit card,6148.8,4.761904762,307.44,10.0
+INV-00420,A,Mumbai,Normal,Male,Food and beverages,259.47,3,38.92,817.33,2/7/2025,20:54,Ewallet,778.41,4.761904762,38.92,4.2
+INV-00421,B,Delhi,Normal,Female,Home and lifestyle,405.38,4,81.08,1702.6,2/8/2025,10:39,Ewallet,1621.52,4.761904762,81.08,7.9
+INV-00422,C,Bengaluru,Member,Male,Electronic accessories,438.33,10,219.17,4602.47,2/8/2025,12:31,Ewallet,4383.3,4.761904762,219.17,8.3
+INV-00423,A,Mumbai,Normal,Male,Food and beverages,330.37,3,49.56,1040.67,2/8/2025,12:44,Ewallet,991.11,4.761904762,49.56,6.5
+INV-00424,B,Delhi,Normal,Female,Food and beverages,207.73,1,10.39,218.12,2/8/2025,14:20,Ewallet,207.73,4.761904762,10.39,7.2
+INV-00425,B,Delhi,Normal,Female,Electronic accessories,414.36,5,103.59,2175.39,2/8/2025,17:21,Cash,2071.8,4.761904762,103.59,7.2
+INV-00426,C,Bengaluru,Member,Female,Fashion accessories,217.66,7,76.18,1599.8,2/8/2025,17:23,Ewallet,1523.62,4.761904762,76.18,8.6
+INV-00427,C,Bengaluru,Member,Male,Home and lifestyle,561.9,3,84.29,1769.99,2/8/2025,19:14,Ewallet,1685.7,4.761904762,84.29,5.7
+INV-00428,C,Bengaluru,Member,Female,Electronic accessories,217.93,5,54.48,1144.13,2/8/2025,20:17,Cash,1089.65,4.761904762,54.48,5.3
+INV-00429,C,Bengaluru,Member,Male,Electronic accessories,213.79,7,74.83,1571.36,2/8/2025,20:32,Credit card,1496.53,4.761904762,74.83,4.0
+INV-00430,A,Mumbai,Member,Female,Food and beverages,146.58,7,51.3,1077.36,2/8/2025,20:44,Credit card,1026.06,4.761904762,51.3,7.4
+INV-00431,B,Delhi,Member,Male,Food and beverages,147.73,10,73.86,1551.16,2/9/2025,11:20,Credit card,1477.3,4.761904762,73.86,6.8
+INV-00432,B,Delhi,Normal,Female,Sports and travel,162.81,5,40.7,854.75,2/9/2025,13:10,Cash,814.05,4.761904762,40.7,7.0
+INV-00433,B,Delhi,Normal,Female,Fashion accessories,574.62,1,28.73,603.35,2/9/2025,13:48,Ewallet,574.62,4.761904762,28.73,6.1
+INV-00434,A,Mumbai,Member,Female,Fashion accessories,147.35,3,22.1,464.15,2/9/2025,13:59,Cash,442.05,4.761904762,22.1,6.5
+INV-00435,B,Delhi,Normal,Male,Fashion accessories,400.6,1,20.03,420.63,2/9/2025,14:26,Credit card,400.6,4.761904762,20.03,9.5
+INV-00436,A,Mumbai,Normal,Female,Health and beauty,407.19,8,162.88,3420.4,2/9/2025,16:04,Ewallet,3257.52,4.761904762,162.88,6.9
+INV-00437,C,Bengaluru,Normal,Male,Home and lifestyle,445.31,8,178.12,3740.6,2/9/2025,16:44,Credit card,3562.48,4.761904762,178.12,8.0
+INV-00438,A,Mumbai,Normal,Male,Food and beverages,345.39,3,51.81,1087.98,2/9/2025,17:57,Cash,1036.17,4.761904762,51.81,6.5
+INV-00439,A,Mumbai,Member,Male,Home and lifestyle,752.14,3,112.82,2369.24,2/9/2025,18:08,Credit card,2256.42,4.761904762,112.82,6.1
+INV-00440,A,Mumbai,Normal,Male,Food and beverages,157.52,1,7.88,165.4,2/9/2025,18:18,Ewallet,157.52,4.761904762,7.88,8.1
+INV-00441,A,Mumbai,Normal,Male,Fashion accessories,682.57,2,68.26,1433.4,2/9/2025,19:45,credit card,1365.14,4.761904762,68.26,4.0
+INV-00442,A,Mumbai,Normal,Female,Fashion accessories,588.26,7,205.89,4323.71,2/9/2025,19:55,Credit card,4117.82,4.761904762,205.89,5.5
+INV-00443,B,Delhi,Member,Female,Food and beverages,87.68,2,8.77,184.13,2/9/2025,20:40,Credit card,175.36,4.761904762,8.77,7.1
+INV-00444,A,Mumbai,Member,Male,Health and beauty,493.55,6,148.07,3109.37,2/9/2025,20:51,Ewallet,2961.3,4.761904762,148.07,7.8
+INV-00445,A,Mumbai,Normal,Male,Health and beauty,303.76,4,60.75,1275.79,2/10/2025,11:54,Cash,1215.04,4.761904762,60.75,6.8
+INV-00446,B,Delhi,Normal,Female,Health and beauty,196.8,5,49.2,1033.2,2/10/2025,13:01,Cash,984.0,4.761904762,49.2,7.1
+INV-00447,A,Mumbai,Normal,Female,Health and beauty,512.73,5,128.18,2691.83,2/10/2025,13:12,Ewallet,2563.65,4.761904762,128.18,7.3
+INV-00448,A,Mumbai,Normal,Male,Home and lifestyle,885.71,6,265.71,5579.97,2/10/2025,13:31,Cash,5314.26,4.761904762,265.71,9.1
+INV-00449,C,Bengaluru,Normal,Female,Sports and travel,286.57,6,85.97,1805.39,2/10/2025,13:56,Cash,1719.42,4.761904762,85.97,7.0
+INV-00450,B,Delhi,Member,Male,Health and beauty,511.1,9,230.0,4829.9,2/10/2025,16:51,Credit card,4599.9,4.761904762,230.0,8.2
+INV-00451,C,Bengaluru,Member,Female,Fashion accessories,586.34,7,205.22,4309.6,2/10/2025,19:17,Cash,4104.38,4.761904762,205.22,7.9
+INV-00452,A,Mumbai,Normal,Male,Health and beauty,436.95,2,43.7,917.6,2/10/2025,19:18,Cash,873.9,4.761904762,43.7,6.8
+INV-00453,C,Bengaluru,Normal,Male,Food and beverages,218.29,2,21.83,458.41,2/10/2025,19:19,Ewallet,436.58,4.761904762,21.83,5.3
+INV-00454,C,Bengaluru,Normal,Female,Food and beverages,150.38,1,7.52,157.9,2/10/2025,19:34,Credit card,150.38,4.761904762,7.52,8.5
+INV-00455,B,Delhi,Member,Male,Electronic accessories,786.64,1,39.33,825.97,2/10/2025,19:45,Cash,786.64,4.761904762,39.33,8.4
+INV-00456,A,Mumbai,Member,Female,Electronic accessories,466.9,9,210.1,4412.2,2/10/2025,20:23,Cash,4202.1,4.761904762,210.1,8.5
+INV-00457,C,Bengaluru,Member,Female,Food and beverages,177.92,4,35.58,747.26,2/11/2025,12:40,Ewallet,711.68,4.761904762,35.58,9.2
+INV-00458,B,Delhi,Normal,Male,Home and lifestyle,467.15,4,93.43,1962.03,2/11/2025,13:04,Cash,1868.6,4.761904762,93.43,4.2
+INV-00459,A,Mumbai,Normal,Female,Home and lifestyle,438.42,9,197.29,4143.07,2/11/2025,14:17,Ewallet,3945.78,4.761904762,197.29,8.3
+INV-00460,C,Bengaluru,Member,Male,Home and lifestyle,392.48,8,156.99,3296.83,2/11/2025,14:29,Cash,3139.84,4.761904762,156.99,7.0
+INV-00461,A,Mumbai,Normal,Male,Health and beauty,535.9,5,133.98,2813.48,2/11/2025,14:41,Credit card,2679.5,4.761904762,133.98,7.0
+INV-00462,A,Mumbai,Member,Male,Home and lifestyle,604.83,3,90.72,1905.21,2/11/2025,15:07,Cash,1814.49,4.761904762,90.72,7.1
+INV-00463,A,Mumbai,Member,Male,Food and beverages,164.9,6,49.47,1038.87,2/11/2025,15:15,Credit card,989.4,4.761904762,49.47,7.3
+INV-00464,C,Bengaluru,Member,Male,Home and lifestyle,761.1,10,380.55,7991.55,2/11/2025,18:33,Credit card,7611.0,4.761904762,380.55,6.8
+INV-00465,C,Bengaluru,Member,Male,Electronic accessories,448.72,10,224.36,4711.56,2/11/2025,19:20,Cash,4487.2,4.761904762,224.36,7.2
+INV-00466,B,Delhi,Normal,Female,Health and beauty,114.81,2,11.48,241.1,2/11/2025,19:37,Cash,229.62,4.761904762,11.48,5.8
+INV-00467,A,Mumbai,Member,Female,Food and beverages,177.67,4,35.53,746.21,2/12/2025,11:12,Credit card,710.68,4.761904762,35.53,5.6
+INV-00468,B,Delhi,Normal,Male,Electronic accessories,498.45,8,199.38,4186.98,2/12/2025,13:07,Cash,3987.6,4.761904762,199.38,7.4
+INV-00469,A,Mumbai,Normal,Female,Sports and travel,719.53,2,71.95,1511.01,2/12/2025,13:48,Ewallet,1439.06,4.761904762,71.95,4.2
+INV-00470,A,Mumbai,Normal,Female,Food and beverages,123.42,7,43.2,907.14,2/12/2025,15:34,Ewallet,863.94,4.761904762,43.2,5.2
+INV-00471,C,Bengaluru,Normal,Female,Food and beverages,119.54,4,23.91,502.07,2/12/2025,15:54,Credit card,478.16,4.761904762,23.91,7.3
+INV-00472,B,Delhi,Member,Male,Health and beauty,251.46,10,125.73,2640.33,2/12/2025,17:04,Cash,2514.6,4.761904762,125.73,5.9
+INV-00473,C,Bengaluru,Member,Male,Electronic accessories,368.46,8,147.38,3095.06,2/12/2025,18:23,Ewallet,2947.68,4.761904762,147.38,7.2
+INV-00474,B,Delhi,Member,Male,Fashion accessories,116.86,4,23.37,490.81,2/12/2025,18:40,Cash,467.44,4.761904762,23.37,7.5
+INV-00475,A,Mumbai,Normal,Male,Food and beverages,76.16,5,19.04,399.84,2/12/2025,19:00,Cash,380.8,4.761904762,19.04,7.4
+INV-00476,C,Bengaluru,Normal,Male,Electronic accessories,307.12,5,76.78,1612.38,2/12/2025,19:00,Ewallet,1535.6,4.761904762,76.78,5.6
+INV-00477,B,Delhi,Normal,Male,Electronic accessories,897.36,10,448.68,9422.28,2/12/2025,19:15,Credit card,8973.6,4.761904762,448.68,8.0
+INV-00478,B,Delhi,Member,Male,Health and beauty,457.13,9,205.71,4319.88,2/12/2025,19:20,Cash,4114.17,4.761904762,205.71,5.9
+INV-00479,A,Mumbai,Normal,Male,Sports and travel,898.58,1,44.93,943.51,2/12/2025,19:54,Cash,898.58,4.761904762,44.93,5.1
+INV-00480,A,Mumbai,Member,Female,Food and beverages,293.79,1,14.69,308.48,2/12/2025,20:34,Credit card,293.79,4.761904762,14.69,6.6
+INV-00481,A,Mumbai,Normal,Female,Sports and travel,585.55,8,234.22,4918.62,2/13/2025,10:20,Cash,4684.4,4.761904762,234.22,6.9
+INV-00482,C,Bengaluru,Normal,Male,Sports and travel,605.45,6,181.64,3814.34,2/13/2025,11:09,Ewallet,3632.7,4.761904762,181.64,7.4
+INV-00483,C,Bengaluru,Normal,Male,Home and lifestyle,972.95,1,48.65,1021.6,2/13/2025,11:58,Ewallet,972.95,4.761904762,48.65,6.7
+INV-00484,C,Bengaluru,Member,Female,Electronic accessories,744.36,7,260.53,5471.05,2/13/2025,12:41,Ewallet,5210.52,4.761904762,260.53,
+INV-00485,C,Bengaluru,Member,Female,Home and lifestyle,580.13,6,174.04,3654.82,2/13/2025,13:25,Ewallet,3480.78,4.761904762,174.04,8.3
+INV-00486,B,Delhi,Normal,Female,Fashion accessories,653.19,2,65.32,1371.7,2/13/2025,17:27,Credit card,1306.38,4.761904762,65.32,
+INV-00487,B,Delhi,Member,Male,Fashion accessories,195.46,6,58.64,1231.4,2/13/2025,17:46,Credit card,1172.76,4.761904762,58.64,5.6
+INV-00488,C,Bengaluru,Member,Female,Food and beverages,276.33,8,110.53,2321.17,2/13/2025,18:01,Credit card,2210.64,4.761904762,110.53,8.2
+INV-00489,B,Delhi,Member,Female,Food and beverages,398.71,10,199.36,4186.46,2/13/2025,18:05,Credit card,3987.1,4.761904762,199.36,6.1
+INV-00490,B,Delhi,Member,Female,Fashion accessories,664.55,1,33.23,697.78,2/13/2025,18:43,Ewallet,664.55,4.761904762,33.23,7.7
+INV-00491,C,Bengaluru,Member,Male,Fashion accessories,458.7,3,68.8,1444.9,2/13/2025,19:26,Ewallet,1376.1,4.761904762,68.8,9.0
+INV-00492,C,Bengaluru,Normal,Female,Sports and travel,942.63,7,329.92,6928.33,2/13/2025,19:55,Credit card,6598.41,4.761904762,329.92,7.1
+INV-00493,A,Mumbai,Normal,Female,Fashion accessories,439.42,9,197.74,4152.52,2/13/2025,20:21,Cash,3954.78,4.761904762,197.74,5.8
+INV-00494,C,Bengaluru,Member,Male,Food and beverages,150.82,8,60.33,1266.89,2/14/2025,15:03,Ewallet,1206.56,4.761904762,60.33,6.3
+INV-00495,A,Mumbai,Member,Male,Food and beverages,50.73,10,25.36,532.66,2/14/2025,16:28,Cash,507.3,4.761904762,25.36,8.8
+INV-00496,A,Mumbai,Member,Male,Home and lifestyle,978.64,6,293.59,6165.43,2/14/2025,18:04,Cash,5871.84,4.761904762,293.59,9.1
+INV-00497,A,Mumbai,Member,Male,Sports and travel,229.78,10,114.89,2412.69,2/14/2025,18:55,Ewallet,2297.8,4.761904762,114.89,4.0
+INV-00498,A,Mumbai,Normal,Female,Electronic accessories,461.22,8,184.49,3874.25,2/14/2025,19:21,Cash,3689.76,4.761904762,184.49,6.1
+INV-00499,B,Delhi,Normal,Female,Home and lifestyle,292.74,10,146.37,3073.77,2/14/2025,19:41,Cash,2927.4,4.761904762,146.37,10.0
+INV-00500,B,Delhi,Member,Male,Sports and travel,830.74,7,290.76,6105.94,2/14/2025,19:57,Cash,5815.18,4.761904762,290.76,7.7
+INV-00501,C,Bengaluru,Member,Female,Food and beverages,186.72,7,65.35,1372.39,2/15/2025,10:44,Ewallet,1307.04,4.761904762,65.35,7.2
+INV-00502,A,Mumbai,Member,Male,Food and beverages,210.24,7,73.58,1545.26,2/15/2025,10:48,Credit card,1471.68,4.761904762,73.58,6.9
+INV-00503,A,Mumbai,Member,Male,Health and beauty,559.74,2,55.97,1175.45,2/15/2025,11:12,Ewallet,1119.48,4.761904762,55.97,8.3
+INV-00504,A,Mumbai,Normal,Female,Home and lifestyle,559.69,9,251.86,5289.07,2/15/2025,14:12,Credit card,5037.21,4.761904762,251.86,6.9
+INV-00505,C,Bengaluru,Member,Female,Sports and travel,602.44,4,120.49,2530.25,2/15/2025,14:19,Cash,2409.76,4.761904762,120.49,8.0
+INV-00506,A,Mumbai,Member,Male,Fashion accessories,115.21,5,28.8,604.85,2/15/2025,14:42,Ewallet,576.05,4.761904762,28.8,5.4
+INV-00507,B,Delhi,Member,Female,Home and lifestyle,760.29,6,228.09,4789.83,2/15/2025,15:22,Credit card,4561.74,4.761904762,228.09,5.8
+INV-00508,A,Mumbai,Member,Female,Fashion accessories,133.09,9,59.89,1257.7,2/15/2025,18:26,Credit card,1197.81,4.761904762,59.89,7.1
+INV-00509,B,Delhi,Member,Male,Sports and travel,304.63,10,152.32,3198.62,2/15/2025,19:40,Cash,3046.3,4.761904762,152.32,8.1
+INV-00510,B,Delhi,Normal,Female,Sports and travel,640.68,5,160.17,3363.57,2/15/2025,20:55,Cash,3203.4,4.761904762,160.17,9.4
+INV-00511,A,Mumbai,Normal,Female,Electronic accessories,823.59,8,329.44,6918.16,2/16/2025,11:29,Credit card,6588.72,4.761904762,329.44,7.6
+INV-00512,B,Delhi,Member,Female,Home and lifestyle,834.05,9,375.32,7881.77,2/16/2025,12:26,Credit card,7506.45,4.761904762,375.32,7.7
+INV-00513,C,Bengaluru,Member,Male,Home and lifestyle,302.24,10,151.12,3173.52,2/16/2025,13:05,Credit card,3022.4,4.761904762,151.12,7.8
+INV-00514,B,Delhi,Normal,Male,Electronic accessories,737.07,6,221.12,4643.54,2/16/2025,13:24,Cash,4422.42,4.761904762,221.12,6.8
+INV-00515,B,Delhi,Member,Male,Health and beauty,581.89,6,174.57,3665.91,2/16/2025,13:38,Ewallet,3491.34,4.761904762,174.57,4.6
+INV-00516,B,Delhi,Member,Male,Home and lifestyle,841.3,8,336.52,7066.92,2/16/2025,13:53,Credit card,6730.4,4.761904762,336.52,5.2
+INV-00517,A,Mumbai,Normal,Male,Health and beauty,557.25,3,83.59,1755.34,2/16/2025,15:07,Cash,1671.75,4.761904762,83.59,5.7
+INV-00518,B,Delhi,Normal,Male,Food and beverages,131.12,6,39.34,826.06,2/16/2025,15:38,Credit card,786.72,4.761904762,39.34,6.3
+INV-00519,C,Bengaluru,Normal,Male,Sports and travel,334.57,1,16.73,351.3,2/16/2025,16:09,Ewallet,334.57,4.761904762,16.73,6.2
+INV-00520,C,Bengaluru,Normal,Female,Health and beauty,416.43,6,124.93,2623.51,2/16/2025,16:21,Ewallet,2498.58,4.761904762,124.93,4.0
+INV-00521,C,Bengaluru,Member,Female,Sports and travel,439.22,4,87.84,1844.72,2/16/2025,17:59,Ewallet,1756.88,4.761904762,87.84,6.6
+INV-00522,B,Delhi,Normal,Male,Sports and travel,911.19,1,45.56,956.75,2/16/2025,18:03,Cash,911.19,4.761904762,45.56,7.4
+INV-00523,A,Mumbai,Normal,Male,Sports and travel,266.35,10,133.18,2796.68,2/16/2025,18:27,Cash,2663.5,4.761904762,133.18,5.1
+INV-00524,C,Bengaluru,Member,Male,Sports and travel,275.28,9,123.88,2601.4,2/16/2025,18:40,Ewallet,2477.52,4.761904762,123.88,5.9
+INV-00525,A,Mumbai,Normal,Female,Health and beauty,586.28,6,175.88,3693.56,2/16/2025,19:00,Credit card,3517.68,4.761904762,175.88,7.4
+INV-00526,A,Mumbai,Normal,Female,Sports and travel,470.24,5,117.56,2468.76,2/16/2025,19:12,Ewallet,2351.2,4.761904762,117.56,8.6
+INV-00527,B,Delhi,Member,Female,Sports and travel,225.92,5,56.48,1186.08,2/16/2025,19:36,Cash,1129.6,4.761904762,56.48,7.2
+INV-00528,A,Mumbai,Member,Male,Sports and travel,571.5,9,257.18,5400.68,2/16/2025,20:11,Credit card,5143.5,4.761904762,257.18,6.2
+INV-00529,A,Mumbai,Normal,Male,Fashion accessories,341.96,2,34.2,718.12,2/16/2025,20:35,Ewallet,683.92,4.761904762,34.2,9.2
+INV-00530,A,Mumbai,Member,Female,Food and beverages,118.49,10,59.24,1244.14,2/17/2025,12:38,Cash,1184.9,4.761904762,59.24,5.3
+INV-00531,C,Bengaluru,Member,Male,Health and beauty,210.21,10,105.1,2207.2,2/17/2025,13:27,Cash,2102.1,4.761904762,105.1,5.9
+INV-00532,A,Mumbai,Normal,Male,Fashion accessories,526.69,3,79.0,1659.07,2/17/2025,14:41,Credit card,1580.07,4.761904762,79.0,8.6
+INV-00533,C,Bengaluru,Member,Male,Electronic accessories,732.13,6,219.64,4612.42,2/17/2025,17:19,Credit card,4392.78,4.761904762,219.64,6.2
+INV-00534,C,Bengaluru,Member,Female,Food and beverages,329.88,8,131.95,2770.99,2/17/2025,17:58,Ewallet ,2639.04,4.761904762,131.95,4.5
+INV-00535,B,Delhi,Member,Male,Food and beverages,138.36,7,48.43,1016.95,2/17/2025,18:28,Credit card,968.52,4.761904762,48.43,6.8
+INV-00536,A,Mumbai,Normal,Female,Home and lifestyle,671.86,5,167.97,3527.27,2/17/2025,19:30,Ewallet,3359.3,4.761904762,167.97,8.0
+INV-00537,B,Delhi,Member,Female,Health and beauty,416.06,2,41.61,873.73,2/17/2025,20:18,Cash,832.12,4.761904762,41.61,9.5
+INV-00538,B,Delhi,Normal,Male,Home and lifestyle,948.3,1,47.42,995.72,2/17/2025,20:58,Ewallet,948.3,4.761904762,47.42,7.9
+INV-00539,C,Bengaluru,Member,Male,Fashion accessories,684.86,10,342.43,7191.03,2/18/2025,10:34,Cash,6848.6,4.761904762,342.43,7.9
+INV-00540,A,Mumbai,Member,Female,Health and beauty,488.95,6,146.68,3080.38,2/18/2025,12:24,Credit card,2933.7,4.761904762,146.68,9.2
+INV-00541,C,Bengaluru,Normal,Female,Sports and travel,560.44,8,224.18,4707.7,2/18/2025,12:44,Credit card,4483.52,4.761904762,224.18,4.9
+INV-00542,B,Delhi,Member,Female,Food and beverages,331.53,9,149.19,3132.96,2/18/2025,13:11,Ewallet,2983.77,4.761904762,149.19,6.8
+INV-00543,A,Mumbai,Normal,Female,Health and beauty,450.57,9,202.76,4257.89,2/18/2025,14:16,Ewallet,4055.13,4.761904762,202.76,6.7
+INV-00544,C,Bengaluru,Member,Female,Electronic accessories,347.12,8,138.85,2915.81,2/18/2025,17:20,Cash,2776.96,4.761904762,138.85,8.2
+INV-00545,C,Bengaluru,Member,Female,Sports and travel,777.76,3,116.66,2449.94,2/18/2025,17:36,Cash,2333.28,4.761904762,116.66,8.5
+INV-00546,A,Mumbai,Member,Male,Electronic accessories,167.95,9,75.58,1587.13,2/19/2025,10:27,Ewallet,1511.55,4.761904762,75.58,8.0
+INV-00547,A,Mumbai,Member,Male,Fashion accessories,346.42,4,69.28,1454.96,2/19/2025,10:31,Ewallet,1385.68,4.761904762,69.28,9.4
+INV-00548,B,Delhi,Normal,Male,Fashion accessories,629.76,10,314.88,6612.48,2/19/2025,13:29,Ewallet,6297.6,4.761904762,314.88,6.4
+INV-00549,A,Mumbai,Normal,Female,Food and beverages,272.7,7,95.44,2004.34,2/19/2025,13:50,Credit card,1908.9,4.761904762,95.44,4.8
+INV-00550,A,Mumbai,Member,Male,Food and beverages,200.25,5,50.06,1051.31,2/19/2025,14:43,Ewallet,1001.25,4.761904762,50.06,6.8
+INV-00551,C,Bengaluru,Member,Male,Sports and travel,352.37,7,123.33,2589.92,2/19/2025,14:56,Ewallet,2466.59,4.761904762,123.33,6.9
+INV-00552,C,Bengaluru,Normal,Male,Electronic accessories,556.72,5,139.18,2922.78,2/19/2025,15:29,Credit card,2783.6,4.761904762,139.18,5.6
+INV-00553,A,Mumbai,Member,Male,Sports and travel,306.23,4,61.25,1286.17,2/19/2025,15:55,Ewallet,1224.92,4.761904762,61.25,4.4
+INV-00554,B,Delhi,Normal,Male,Food and beverages,224.74,10,112.37,2359.77,2/19/2025,17:35,Cash,2247.4,4.761904762,112.37,7.6
+INV-00555,B,Delhi,Member,Female,Food and beverages,388.01,5,97.0,2037.05,2/19/2025,19:33,Credit card,1940.05,4.761904762,97.0,6.7
+INV-00556,B,Delhi,Normal,Female,Food and beverages,337.68,6,101.3,2127.38,2/19/2025,19:42,Ewallet,2026.08,4.761904762,101.3,10.0
+INV-00557,B,Delhi,Normal,Female,Electronic accessories,324.3,8,129.72,2724.12,2/20/2025,10:12,Credit card,2594.4,4.761904762,129.72,5.2
+INV-00558,A,Mumbai,Normal,Male,Health and beauty,293.43,8,117.37,2464.81,2/20/2025,10:23,Credit card,2347.44,4.761904762,117.37,7.1
+INV-00559,A,Mumbai,Member,Male,Health and beauty,122.84,5,30.71,644.91,2/20/2025,12:02,Credit card,614.2,4.761904762,30.71,6.2
+INV-00560,C,Bengaluru,Normal,Female,Electronic accessories,802.29,10,401.14,8424.04,2/20/2025,12:03,Ewallet,8022.9,4.761904762,401.14,9.0
+INV-00561,A,Mumbai,Normal,Male,Fashion accessories,553.27,8,221.31,4647.47,2/20/2025,13:56,Ewallet,4426.16,4.761904762,221.31,7.2
+INV-00562,C,Bengaluru,Normal,Female,Sports and travel,499.1,4,99.82,2096.22,2/20/2025,15:24,Ewallet,1996.4,4.761904762,99.82,9.0
+INV-00563,B,Delhi,Member,Female,Sports and travel,376.28,3,56.44,1185.28,2/20/2025,16:15,Cash,1128.84,4.761904762,56.44,4.8
+INV-00564,C,Bengaluru,Normal,Male,Health and beauty,390.43,10,195.22,4099.52,2/20/2025,16:27,Cash,3904.3,4.761904762,195.22,4.4
+INV-00565,C,Bengaluru,Normal,Female,Sports and travel,414.4,8,165.76,3480.96,2/20/2025,19:32,Credit card,3315.2,4.761904762,165.76,7.3
+INV-00566,C,Bengaluru,Normal,Male,Health and beauty,301.28,6,90.38,1898.06,2/20/2025,20:04,Ewallet,1807.68,4.761904762,90.38,5.4
+INV-00567,B,Delhi,Member,Male,Food and beverages,256.25,8,102.5,2152.5,2/20/2025,20:15,Ewallet,2050.0,4.761904762,102.5,8.5
+INV-00568,B,Delhi,Member,Male,Sports and travel,918.76,3,137.81,2894.09,2/20/2025,20:22,Ewallet,2756.28,4.761904762,137.81,6.7
+INV-00569,A,Mumbai,Normal,Female,Electronic accessories,834.44,3,125.17,2628.49,2/20/2025,20:32,Ewallet,2503.32,4.761904762,125.17,7.5
+INV-00570,B,Delhi,Normal,Male,Home and lifestyle,730.81,3,109.62,2302.05,2/21/2025,12:40,Ewallet,2192.43,4.761904762,109.62,6.9
+INV-00571,C,Bengaluru,Member,Male,Health and beauty,279.3,4,55.86,1173.06,2/21/2025,14:05,Ewallet,1117.2,4.761904762,55.86,7.8
+INV-00572,A,Mumbai,Member,Male,Sports and travel,704.68,7,246.64,5179.4,2/21/2025,14:18,Ewallet,4932.76,4.761904762,246.64,8.5
+INV-00573,B,Delhi,Normal,Female,Fashion accessories,251.64,3,37.75,792.67,2/21/2025,14:32,Credit card,754.92,4.761904762,37.75,8.8
+INV-00574,C,Bengaluru,Member,Female,Fashion accessories,477.84,4,95.57,2006.93,2/21/2025,15:40,credit card,1911.36,4.761904762,95.57,9.0
+INV-00575,B,Delhi,Normal,Male,Fashion accessories,564.06,1,28.2,592.26,2/21/2025,16:42,Credit card,564.06,4.761904762,28.2,7.8
+INV-00576,A,Mumbai,Normal,Male,Home and lifestyle,859.25,1,42.96,902.21,2/21/2025,18:07,Credit card,859.25,4.761904762,42.96,6.0
+INV-00577,A,Mumbai,Member,Female,Health and beauty,275.48,6,82.64,1735.52,2/21/2025,18:10,Credit card,1652.88,4.761904762,82.64,6.7
+INV-00578,A,Mumbai,Member,Male,Electronic accessories,632.23,6,189.67,3983.05,2/21/2025,20:46,Ewallet,3793.38,4.761904762,189.67,4.7
+INV-00579,B,Delhi,Normal,Female,Home and lifestyle,841.17,5,210.29,4416.14,2/21/2025,20:55,Ewallet,4205.85,4.761904762,210.29,8.2
+INV-00580,A,Mumbai,Normal,Female,Food and beverages,90.05,2,9.01,189.11,2/22/2025,10:37,Cash,180.1,4.761904762,9.01,7.2
+INV-00581,A,Mumbai,Member,Female,Home and lifestyle,779.69,6,233.91,4912.05,2/22/2025,10:48,Cash,4678.14,4.761904762,233.91,4.0
+INV-00582,A,Mumbai,Member,Male,Home and lifestyle,419.02,8,167.61,3519.77,2/22/2025,12:49,Cash,3352.16,4.761904762,167.61,4.5
+INV-00583,A,Mumbai,Normal,Male,Sports and travel,307.83,2,30.78,646.44,2/22/2025,12:59,Cash,615.66,4.761904762,30.78,7.3
+INV-00584,B,Delhi,Normal,Female,Home and lifestyle,759.2,2,75.92,1594.32,2/22/2025,13:22,Ewallet,1518.4,4.761904762,75.92,6.5
+INV-00585,C,Bengaluru,Member,Male,Health and beauty,327.91,4,65.58,1377.22,2/22/2025,13:51,Cash,1311.64,4.761904762,65.58,8.5
+INV-00586,B,Delhi,Member,Male,Electronic accessories,157.38,6,47.21,991.49,2/22/2025,14:04,Cash,944.28,4.761904762,47.21,6.8
+INV-00587,A,Mumbai,Member,Female,Electronic accessories,722.7,9,325.22,6829.52,2/22/2025,14:09,Cash,6504.3,4.761904762,325.22,7.3
+INV-00588,C,Bengaluru,Member,Female,Sports and travel,377.13,6,113.14,2375.92,2/22/2025,14:33,Ewallet,2262.78,4.761904762,113.14,8.8
+INV-00589,B,Delhi,Normal,Female,Health and beauty,556.19,4,111.24,2336.0,2/22/2025,14:38,Ewallet,2224.76,4.761904762,111.24,4.0
+INV-00590,B,Delhi,Normal,Male,Home and lifestyle,671.3,6,201.39,4229.19,2/22/2025,14:39,Cash,4027.8,4.761904762,201.39,5.7
+INV-00591,A,Mumbai,Normal,Male,Home and lifestyle,836.5,9,376.42,7904.92,2/22/2025,15:38,Credit card,7528.5,4.761904762,376.42,5.2
+INV-00592,A,Mumbai,Member,Female,Sports and travel,169.79,1,8.49,178.28,2/22/2025,15:42,Credit card,169.79,4.761904762,8.49,6.5
+INV-00593,C,Bengaluru,Member,Male,Food and beverages,394.6,9,177.57,3728.97,2/22/2025,15:57,cash,3551.4,4.761904762,177.57,9.0
+INV-00594,A,Mumbai,Member,Female,Health and beauty,172.29,2,17.23,361.81,2/22/2025,17:09,Cash,344.58,4.761904762,17.23,
+INV-00595,A,Mumbai,Member,Female,Electronic accessories,511.04,7,178.86,3756.14,2/22/2025,17:47,Credit card,3577.28,4.761904762,178.86,8.4
+INV-00596,B,Delhi,Member,Male,Electronic accessories,677.97,7,237.29,4983.08,2/22/2025,19:24,Credit card,4745.79,4.761904762,237.29,7.8
+INV-00597,A,Mumbai,Member,Female,Electronic accessories,685.38,1,34.27,719.65,2/22/2025,19:26,Ewallet ,685.38,4.761904762,34.27,8.9
+INV-00598,C,Bengaluru,Normal,Female,Home and lifestyle,769.45,7,269.31,5655.46,2/22/2025,19:48,Credit card,5386.15,4.761904762,269.31,7.3
+INV-00599,A,Mumbai,Member,Male,Sports and travel,771.09,8,308.44,6477.16,2/22/2025,19:58,Ewallet,6168.72,4.761904762,308.44,6.3
+INV-00600,C,Bengaluru,Normal,Female,Health and beauty,219.08,10,109.54,2300.34,2/22/2025,20:07,Credit card,2190.8,4.761904762,109.54,9.2
+INV-00601,C,Bengaluru,Member,Female,Home and lifestyle,477.49,9,214.87,4512.28,2/23/2025,10:07,Cash,4297.41,4.761904762,214.87,8.3
+INV-00602,C,Bengaluru,Member,Male,Sports and travel,873.2,1,43.66,916.86,2/23/2025,11:22,Credit card,873.2,4.761904762,43.66,6.4
+INV-00603,B,Delhi,Member,Female,Home and lifestyle,962.27,7,336.79,7072.68,2/23/2025,13:50,Ewallet,6735.89,4.761904762,336.79,6.9
+INV-00604,C,Bengaluru,Member,Male,Fashion accessories,126.37,7,44.23,928.82,2/23/2025,14:01,Credit card,884.59,4.761904762,44.23,7.5
+INV-00605,A,Mumbai,Member,Female,Fashion accessories,619.92,2,61.99,1301.83,2/23/2025,17:31,Credit card,1239.84,4.761904762,61.99,7.2
+INV-00606,C,Bengaluru,Member,Male,Sports and travel,543.21,9,244.44,5133.33,2/23/2025,17:54,Ewallet,4888.89,4.761904762,244.44,8.2
+INV-00607,A,Mumbai,Normal,Male,Fashion accessories,684.19,7,239.47,5028.8,2/23/2025,18:07,Cash,4789.33,4.761904762,239.47,6.9
+INV-00608,C,Bengaluru,Normal,Male,Fashion accessories,651.22,6,195.37,4102.69,2/23/2025,18:24,Ewallet,3907.32,4.761904762,195.37,7.6
+INV-00609,B,Delhi,Normal,Male,Health and beauty,375.18,6,112.55,2363.63,2/23/2025,19:55,Credit card,2251.08,4.761904762,112.55,6.1
+INV-00610,A,Mumbai,Normal,Male,Food and beverages,79.61,8,31.84,668.72,2/24/2025,10:34,Ewallet,636.88,4.761904762,31.84,5.4
+INV-00611,C,Bengaluru,Normal,Male,Fashion accessories,206.2,4,41.24,866.04,2/24/2025,14:16,Credit card,824.8,4.761904762,41.24,6.9
+INV-00612,A,Mumbai,Member,Male,Fashion accessories,554.59,10,277.3,5823.2,2/24/2025,14:43,Ewallet,5545.9,4.761904762,277.3,6.9
+INV-00613,C,Bengaluru,Normal,Female,Food and beverages,187.04,6,56.11,1178.35,2/24/2025,15:50,Credit card,1122.24,4.761904762,56.11,7.2
+INV-00614,B,Delhi,Member,Male,Food and beverages,145.01,5,36.25,761.3,2/24/2025,16:44,Credit card,725.05,4.761904762,36.25,9.0
+INV-00615,B,Delhi,Member,Male,Fashion accessories,654.5,4,130.9,2748.9,2/24/2025,17:46,Credit card,2618.0,4.761904762,130.9,4.8
+INV-00616,A,Mumbai,Member,Male,Health and beauty,526.44,9,236.9,4974.86,2/24/2025,19:22,Credit card,4737.96,4.761904762,236.9,5.4
+INV-00617,C,Bengaluru,Normal,Male,Sports and travel,800.6,5,200.15,4203.15,2/25/2025,11:01,Ewallet,4003.0,4.761904762,200.15,8.7
+INV-00618,A,Mumbai,Member,Female,Sports and travel,743.89,9,334.75,7029.76,2/25/2025,13:56,Cash,6695.01,4.761904762,334.75,4.9
+INV-00619,A,Mumbai,Member,Female,Health and beauty,313.5,5,78.38,1645.88,2/25/2025,14:37,Cash,1567.5,4.761904762,78.38,6.4
+INV-00620,C,Bengaluru,Member,Male,Sports and travel,319.15,8,127.66,2680.86,2/25/2025,14:55,Credit card,2553.2,4.761904762,127.66,6.6
+INV-00621,A,Mumbai,Normal,Male,Sports and travel,514.36,9,231.46,4860.7,2/25/2025,15:18,Ewallet,4629.24,4.761904762,231.46,8.7
+INV-00622,B,Delhi,Normal,Male,Food and beverages,350.33,8,140.13,2942.77,2/25/2025,16:07,Cash,2802.64,4.761904762,140.13,8.5
+INV-00623,B,Delhi,Normal,Female,Home and lifestyle,474.19,9,213.39,4481.1,2/25/2025,17:00,Credit card,4267.71,4.761904762,213.39,10.0
+INV-00624,B,Delhi,Normal,Female,Sports and travel,941.98,2,94.2,1978.16,2/25/2025,17:06,ewallet,1883.96,4.761904762,94.2,5.0
+INV-00625,A,Mumbai,Normal,Male,Electronic accessories,363.52,1,18.18,381.7,2/25/2025,18:26,Credit card,363.52,4.761904762,18.18,7.9
+INV-00626,B,Delhi,Member,Male,Food and beverages,118.04,3,17.71,371.83,2/25/2025,18:36,Cash,354.12,4.761904762,17.71,8.4
+INV-00627,C,Bengaluru,Normal,Female,Sports and travel,674.11,8,269.64,5662.52,2/26/2025,12:02,Ewallet,5392.88,4.761904762,269.64,8.0
+INV-00628,A,Mumbai,Member,Male,Food and beverages,238.97,9,107.54,2258.27,2/26/2025,13:10,Credit card,2150.73,4.761904762,107.54,7.6
+INV-00629,B,Delhi,Member,Female,Electronic accessories,541.05,4,108.21,2272.41,2/26/2025,13:24,Cash,2164.2,4.761904762,108.21,7.7
+INV-00630,C,Bengaluru,Normal,Male,Electronic accessories,792.86,10,396.43,8325.03,2/26/2025,19:18,Credit card,7928.6,4.761904762,396.43,7.5
+INV-00631,C,Bengaluru,Normal,Male,Food and beverages,318.0,2,31.8,667.8,2/26/2025,19:24,Credit card,636.0,4.761904762,31.8,7.6
+INV-00632,B,Delhi,Normal,Male,Health and beauty,446.37,5,111.59,2343.44,2/26/2025,19:31,Ewallet,2231.85,4.761904762,111.59,8.8
+INV-00633,A,Mumbai,Normal,Male,Fashion accessories,243.38,3,36.51,766.65,2/26/2025,19:59,Credit card,730.14,4.761904762,36.51,6.4
+INV-00634,A,Mumbai,Member,Male,Food and beverages,100.47,5,25.12,527.47,2/27/2025,10:40,Ewallet,502.35,4.761904762,25.12,5.0
+INV-00635,B,Delhi,Member,Female,Fashion accessories,494.98,9,222.74,4677.56,2/27/2025,10:56,Cash,4454.82,4.761904762,222.74,8.7
+INV-00636,B,Delhi,Normal,Male,Electronic accessories,360.06,7,126.02,2646.44,2/27/2025,11:19,Ewallet,2520.42,4.761904762,126.02,7.8
+INV-00637,C,Bengaluru,Normal,Female,Sports and travel,295.71,7,103.5,2173.47,2/27/2025,12:11,Cash,2069.97,4.761904762,103.5,8.4
+INV-00638,A,Mumbai,Member,Male,Food and beverages,306.72,6,92.02,1932.34,2/27/2025,13:17,Credit card,1840.32,4.761904762,92.02,8.0
+INV-00639,C,Bengaluru,Normal,Female,Food and beverages,275.85,1,13.79,289.64,2/27/2025,14:53,Cash,275.85,4.761904762,13.79,8.2
+INV-00640,C,Bengaluru,Member,Female,Electronic accessories,200.68,4,40.14,842.86,2/27/2025,15:33,Ewallet,802.72,4.761904762,40.14,7.8
+INV-00641,B,Delhi,Normal,Male,Fashion accessories,684.5,2,68.45,1437.45,2/27/2025,15:37,Credit card,1369.0,4.761904762,68.45,6.4
+INV-00642,C,Bengaluru,Normal,Male,Food and beverages,321.51,2,32.15,675.17,2/27/2025,17:12,Credit card,643.02,4.761904762,32.15,5.9
+INV-00643,C,Bengaluru,Normal,Male,Home and lifestyle,873.81,5,218.45,4587.5,2/27/2025,17:14,Cash,4369.05,4.761904762,218.45,8.6
+INV-00644,B,Delhi,Member,Female,Home and lifestyle,374.82,3,56.22,1180.68,2/27/2025,18:54,Credit card,1124.46,4.761904762,56.22,8.5
+INV-00645,A,Mumbai,Normal,Male,Food and beverages,126.68,6,38.0,798.08,2/27/2025,19:19,Cash,760.08,4.761904762,38.0,6.2
+INV-00646,B,Delhi,Normal,Female,Sports and travel,832.18,3,124.83,2621.37,2/28/2025,10:01,Credit card,2496.54,4.761904762,124.83,7.5
+INV-00647,A,Mumbai,Normal,Female,Sports and travel,589.64,8,235.86,4952.98,2/28/2025,10:39,Credit card,4717.12,4.761904762,235.86,6.6
+INV-00648,B,Delhi,Normal,Male,Health and beauty,515.55,6,154.67,3247.97,2/28/2025,13:35,Credit card,3093.3,4.761904762,154.67,5.3
+INV-00649,B,Delhi,Member,Male,Fashion accessories,655.47,10,327.74,6882.44,2/28/2025,13:49,Ewallet,6554.7,4.761904762,327.74,5.3
+INV-00650,C,Bengaluru,Normal,Male,Electronic accessories,443.47,5,110.87,2328.22,2/28/2025,17:26,Cash,2217.35,4.761904762,110.87,5.7
+INV-00651,C,Bengaluru,Normal,Male,Fashion accessories,618.38,7,216.43,4545.09,2/28/2025,18:18,Credit card,4328.66,4.761904762,216.43,5.9
+INV-00652,C,Bengaluru,Member,Female,Health and beauty,556.88,10,278.44,5847.24,2/28/2025,19:03,Ewallet,5568.8,4.761904762,278.44,9.1
+INV-00653,B,Delhi,Member,Female,Sports and travel,606.85,4,121.37,2548.77,2/28/2025,19:12,Credit card,2427.4,4.761904762,121.37,5.8
+INV-00654,A,Mumbai,Member,Female,Electronic accessories,846.49,3,126.97,2666.44,2/28/2025,19:13,Ewallet,2539.47,4.761904762,126.97,9.2
+INV-00655,C,Bengaluru,Member,Male,Electronic accessories,293.74,8,117.5,2467.42,2/28/2025,19:26,Credit card,2349.92,4.761904762,117.5,8.7
+INV-00656,B,Delhi,Member,Female,Health and beauty,131.21,10,65.6,1377.7,2/28/2025,20:22,Cash,1312.1,4.761904762,65.6,7.0
+INV-00657,A,Mumbai,Normal,Male,Food and beverages,87.97,4,17.59,369.47,2/28/2025,20:49,Credit card,351.88,4.761904762,17.59,7.7
+INV-00658,C,Bengaluru,Normal,Female,Food and beverages,369.08,10,184.54,3875.34,3/1/2025,11:28,Ewallet,3690.8,4.761904762,184.54,7.5
+INV-00659,A,Mumbai,Member,Male,Home and lifestyle,487.7,7,170.7,3584.6,3/1/2025,12:36,Credit card,3413.9,4.761904762,170.7,9.2
+INV-00660,A,Mumbai,Normal,Female,Health and beauty,421.15,2,42.12,884.42,3/1/2025,13:45,Cash,842.3,4.761904762,42.12,4.3
+INV-00661,C,Bengaluru,Member,Female,Food and beverages,386.88,2,38.69,812.45,3/1/2025,14:08,Ewallet,773.76,4.761904762,38.69,6.2
+INV-00662,C,Bengaluru,Normal,Female,Food and beverages,154.57,8,61.83,1298.39,3/1/2025,14:13,Ewallet,1236.56,4.761904762,61.83,5.9
+INV-00663,C,Bengaluru,Member,Female,Home and lifestyle,996.86,8,398.74,8373.62,3/1/2025,16:18,Cash,7974.88,4.761904762,398.74,8.4
+INV-00664,C,Bengaluru,Normal,Male,Home and lifestyle,885.19,7,309.82,6506.15,3/1/2025,17:47,Credit card,6196.33,4.761904762,309.82,9.4
+INV-00665,A,Mumbai,Normal,Male,Food and beverages,323.34,10,161.67,3395.07,3/1/2025,18:02,Cash,3233.4,4.761904762,161.67,6.9
+INV-00666,A,Mumbai,Normal,Male,Health and beauty,144.17,8,57.67,1211.03,3/1/2025,18:32,Ewallet,1153.36,4.761904762,57.67,6.9
+INV-00667,C,Bengaluru,Member,Female,Electronic accessories,483.26,7,169.14,3551.96,3/1/2025,19:11,Credit card,3382.82,4.761904762,169.14,7.9
+INV-00668,B,Delhi,Member,Female,Fashion accessories,535.11,10,267.56,5618.66,3/1/2025,19:15,Credit card,5351.1,4.761904762,267.56,7.2
+INV-00669,B,Delhi,Normal,Female,Sports and travel,510.79,6,153.24,3217.98,3/1/2025,19:49,Cash,3064.74,4.761904762,153.24,6.9
+INV-00670,C,Bengaluru,Member,Female,Sports and travel,456.13,10,228.07,4789.37,3/1/2025,20:07,Ewallet,4561.3,4.761904762,228.07,7.6
+INV-00671,A,Mumbai,Member,Male,Sports and travel,215.21,6,64.56,1355.82,3/1/2025,20:17,Credit card,1291.26,4.761904762,64.56,5.0
+INV-00672,A,Mumbai,Normal,Male,Sports and travel,218.04,9,98.12,2060.48,3/1/2025,20:57,Ewallet,1962.36,4.761904762,98.12,7.7
+INV-00673,B,Delhi,Normal,Male,Health and beauty,352.86,2,35.29,741.01,3/2/2025,10:04,Cash,705.72,4.761904762,35.29,8.1
+INV-00674,C,Bengaluru,Member,Female,Home and lifestyle,458.46,7,160.46,3369.68,3/2/2025,10:55,Cash,3209.22,4.761904762,160.46,8.5
+INV-00675,A,Mumbai,Member,Male,Fashion accessories,574.16,1,28.71,602.87,3/2/2025,13:05,Credit card,574.16,4.761904762,28.71,8.3
+INV-00676,C,Bengaluru,Normal,Male,Electronic accessories,546.29,10,273.14,5736.04,3/2/2025,13:55,Cash,5462.9,4.761904762,273.14,7.4
+INV-00677,C,Bengaluru,Member,Male,Health and beauty,478.7,8,191.48,4021.08,3/2/2025,14:28,Cash,3829.6,4.761904762,191.48,7.9
+INV-00678,A,Mumbai,Normal,Female,Home and lifestyle,583.86,6,175.16,3678.32,3/2/2025,14:37,Credit card,3503.16,4.761904762,175.16,9.4
+INV-00679,C,Bengaluru,Member,Male,Health and beauty,580.02,7,203.01,4263.15,3/2/2025,14:41,Ewallet,4060.14,4.761904762,203.01,6.0
+INV-00680,C,Bengaluru,Normal,Female,Home and lifestyle,691.06,3,103.66,2176.84,3/2/2025,16:48,Credit card,2073.18,4.761904762,103.66,
+INV-00681,C,Bengaluru,Member,Male,Fashion accessories,107.86,10,53.93,1132.53,3/2/2025,17:49,Credit card,1078.6,4.761904762,53.93,7.5
+INV-00682,B,Delhi,Member,Male,Electronic accessories,297.58,10,148.79,3124.59,3/2/2025,18:33,Ewallet,2975.8,4.761904762,148.79,6.7
+INV-00683,A,Mumbai,Normal,Male,Food and beverages,50.06,9,22.53,473.07,3/2/2025,19:18,Cash,450.54,4.761904762,22.53,7.3
+INV-00684,A,Mumbai,Member,Female,Health and beauty,123.58,3,18.54,389.28,3/2/2025,19:31,Cash,370.74,4.761904762,18.54,7.3
+INV-00685,A,Mumbai,Member,Male,Fashion accessories,492.58,8,197.03,4137.67,3/2/2025,19:49,Cash,3940.64,4.761904762,197.03,7.1
+INV-00686,A,Mumbai,Normal,Female,Sports and travel,686.38,7,240.23,5044.89,3/2/2025,20:31,Cash,4804.66,4.761904762,240.23,9.0
+INV-00687,C,Bengaluru,Normal,Female,Electronic accessories,488.93,3,73.34,1540.13,3/3/2025,11:29,Cash,1466.79,4.761904762,73.34,6.6
+INV-00688,A,Mumbai,Member,Female,Home and lifestyle,993.19,9,446.94,9385.65,3/3/2025,11:46,Ewallet,8938.71,4.761904762,446.94,9.4
+INV-00689,C,Bengaluru,Member,Female,Fashion accessories,650.82,1,32.54,683.36,3/3/2025,13:31,Cash,650.82,4.761904762,32.54,6.5
+INV-00690,C,Bengaluru,Normal,Male,Health and beauty,536.99,8,214.8,4510.72,3/3/2025,14:42,Cash,4295.92,4.761904762,214.8,7.4
+INV-00691,B,Delhi,Member,Male,Sports and travel,728.78,4,145.76,3060.88,3/3/2025,15:20,Ewallet,2915.12,4.761904762,145.76,5.4
+INV-00692,C,Bengaluru,Normal,Male,Sports and travel,516.2,8,206.48,4336.08,3/3/2025,15:38,Cash,4129.6,4.761904762,206.48,7.4
+INV-00693,B,Delhi,Normal,Female,Fashion accessories,349.51,5,87.38,1834.93,3/3/2025,15:53,Credit card,1747.55,4.761904762,87.38,6.5
+INV-00694,A,Mumbai,Normal,Male,Sports and travel,776.38,7,271.73,5706.39,3/3/2025,18:02,Cash,5434.66,4.761904762,271.73,5.4
+INV-00695,A,Mumbai,Member,Male,Home and lifestyle,252.47,1,12.62,265.09,3/3/2025,18:31,Ewallet,252.47,4.761904762,12.62,8.7
+INV-00696,C,Bengaluru,Normal,Female,Sports and travel,477.18,1,23.86,501.04,3/3/2025,20:52,Ewallet,477.18,4.761904762,23.86,7.5
+INV-00697,B,Delhi,Member,Female,Fashion accessories,580.18,7,203.06,4264.32,3/4/2025,11:10,Cash,4061.26,4.761904762,203.06,5.3
+INV-00698,C,Bengaluru,Normal,Male,Fashion accessories,675.38,6,202.61,4254.89,3/4/2025,12:09,Credit card,4052.28,4.761904762,202.61,7.7
+INV-00699,B,Delhi,Member,Male,Health and beauty,412.53,10,206.26,4331.56,3/4/2025,12:50,Cash,4125.3,4.761904762,206.26,6.3
+INV-00700,C,Bengaluru,Normal,Male,Electronic accessories,750.78,2,75.08,1576.64,3/4/2025,13:31,Cash,1501.56,4.761904762,75.08,7.1
+INV-00701,C,Bengaluru,Normal,Female,Fashion accessories,604.23,3,90.63,1903.32,3/4/2025,13:52,Credit card,1812.69,4.761904762,90.63,5.2
+INV-00702,A,Mumbai,Member,Female,Food and beverages,123.17,1,6.16,129.33,3/4/2025,13:56,Ewallet,123.17,4.761904762,6.16,7.7
+INV-00703,A,Mumbai,Normal,Male,Electronic accessories,319.98,4,64.0,1343.92,3/4/2025,14:08,Credit card,1279.92,4.761904762,64.0,6.9
+INV-00704,C,Bengaluru,Normal,Male,Home and lifestyle,793.71,5,198.43,4166.98,3/4/2025,16:50,Credit card,3968.55,4.761904762,198.43,9.9
+INV-00705,B,Delhi,Member,Female,Electronic accessories,291.44,8,116.58,2448.1,3/4/2025,16:54,Cash,2331.52,4.761904762,116.58,4.6
+INV-00706,C,Bengaluru,Member,Female,Sports and travel,358.22,9,161.2,3385.18,3/4/2025,18:24,Credit card,3223.98,4.761904762,161.2,6.4
+INV-00707,B,Delhi,Member,Male,Sports and travel,625.67,7,218.98,4598.67,3/4/2025,20:15,Cash,4379.69,4.761904762,218.98,6.0
+INV-00708,C,Bengaluru,Member,Female,Health and beauty,323.41,5,80.85,1697.9,3/5/2025,11:00,Credit card,1617.05,4.761904762,80.85,4.0
+INV-00709,B,Delhi,Normal,Female,Health and beauty,158.87,9,71.49,1501.32,3/5/2025,11:03,Credit card,1429.83,4.761904762,71.49,7.9
+INV-00710,A,Mumbai,Normal,Male,Fashion accessories,679.0,2,67.9,1425.9,3/5/2025,11:32,Cash,1358.0,4.761904762,67.9,4.4
+INV-00711,B,Delhi,Normal,Female,Fashion accessories,228.81,8,91.52,1922.0,3/5/2025,13:26,Cash,1830.48,4.761904762,91.52,7.3
+INV-00712,C,Bengaluru,Member,Female,Food and beverages,62.34,7,21.82,458.2,3/5/2025,14:59,Credit card,436.38,4.761904762,21.82,5.9
+INV-00713,B,Delhi,Member,Female,Fashion accessories,133.39,7,46.69,980.42,3/5/2025,17:29,Credit card,933.73,4.761904762,46.69,5.0
+INV-00714,B,Delhi,Member,Female,Sports and travel,389.66,7,136.38,2864.0,3/5/2025,18:05,Ewallet,2727.62,4.761904762,136.38,6.1
+INV-00715,B,Delhi,Member,Female,Fashion accessories,458.01,6,137.4,2885.46,3/5/2025,18:19,Cash,2748.06,4.761904762,137.4,4.0
+INV-00716,C,Bengaluru,Member,Male,Sports and travel,497.24,4,99.45,2088.41,3/5/2025,19:24,Ewallet,1988.96,4.761904762,99.45,6.7
+INV-00717,C,Bengaluru,Member,Female,Electronic accessories,340.54,2,34.05,715.13,3/5/2025,20:01,Ewallet,681.08,4.761904762,34.05,4.4
+INV-00718,B,Delhi,Member,Male,Fashion accessories,554.54,3,83.18,1746.8,3/6/2025,10:26,Ewallet,1663.62,4.761904762,83.18,8.2
+INV-00719,C,Bengaluru,Member,Male,Fashion accessories,580.21,10,290.1,6092.2,3/6/2025,11:34,Cash,5802.1,4.761904762,290.1,7.3
+INV-00720,B,Delhi,Member,Male,Fashion accessories,552.91,9,248.81,5225.0,3/6/2025,11:43,Ewallet,4976.19,4.761904762,248.81,6.6
+INV-00721,C,Bengaluru,Member,Female,Sports and travel,547.77,9,246.5,5176.43,3/6/2025,12:12,Ewallet,4929.93,4.761904762,246.5,6.5
+INV-00722,B,Delhi,Member,Female,Sports and travel,305.38,4,61.08,1282.6,3/6/2025,16:26,Ewallet,1221.52,4.761904762,61.08,7.8
+INV-00723,C,Bengaluru,Member,Female,Food and beverages,130.01,6,39.0,819.06,3/6/2025,18:07,Credit card,780.06,4.761904762,39.0,10.0
+INV-00724,A,Mumbai,Normal,Female,Fashion accessories,575.09,3,86.26,1811.53,3/6/2025,18:16,Ewallet,1725.27,4.761904762,86.26,6.4
+INV-00725,A,Mumbai,Member,Male,Fashion accessories,458.27,4,91.65,1924.73,3/6/2025,18:27,Cash ,1833.08,4.761904762,91.65,7.0
+INV-00726,B,Delhi,Normal,Male,Health and beauty,457.18,10,228.59,4800.39,3/6/2025,19:27,Cash,4571.8,4.761904762,228.59,9.6
+INV-00727,C,Bengaluru,Normal,Female,Home and lifestyle,205.67,10,102.84,2159.54,3/6/2025,19:37,Credit card,2056.7,4.761904762,102.84,6.1
+INV-00728,B,Delhi,Member,Male,Fashion accessories,608.04,6,182.41,3830.65,3/6/2025,19:37,Cash,3648.24,4.761904762,182.41,7.2
+INV-00729,B,Delhi,Member,Male,Home and lifestyle,839.24,10,419.62,8812.02,3/6/2025,19:45,Cash,8392.4,4.761904762,419.62,7.3
+INV-00730,A,Mumbai,Member,Male,Food and beverages,196.85,8,78.74,1653.54,3/7/2025,11:17,Cash,1574.8,4.761904762,78.74,8.1
+INV-00731,C,Bengaluru,Normal,Male,Food and beverages,322.0,4,64.4,1352.4,3/7/2025,13:59,Credit card,1288.0,4.761904762,64.4,7.1
+INV-00732,B,Delhi,Normal,Female,Health and beauty,198.67,6,59.6,1251.62,3/7/2025,16:00,Ewallet,1192.02,4.761904762,59.6,5.6
+INV-00733,B,Delhi,Member,Male,Health and beauty,586.39,7,205.24,4309.97,3/7/2025,17:32,Credit card,4104.73,4.761904762,205.24,5.8
+INV-00734,B,Delhi,Member,Male,Food and beverages,217.51,6,65.25,1370.31,3/7/2025,18:02,Cash,1305.06,4.761904762,65.25,7.2
+INV-00735,B,Delhi,Member,Female,Food and beverages,280.67,3,42.1,884.11,3/8/2025,13:17,Credit card,842.01,4.761904762,42.1,6.3
+INV-00736,A,Mumbai,Member,Male,Home and lifestyle,489.43,9,220.24,4625.11,3/8/2025,15:50,Ewallet,4404.87,4.761904762,220.24,6.8
+INV-00737,B,Delhi,Normal,Male,Fashion accessories,523.44,4,104.69,2198.45,3/8/2025,16:02,Ewallet,2093.76,4.761904762,104.69,7.3
+INV-00738,A,Mumbai,Normal,Female,Fashion accessories,534.69,5,133.67,2807.12,3/8/2025,17:08,Cash,2673.45,4.761904762,133.67,5.9
+INV-00739,B,Delhi,Member,Female,Home and lifestyle,918.01,9,413.1,8675.19,3/8/2025,17:50,Cash,8262.09,4.761904762,413.1,5.4
+INV-00740,B,Delhi,Member,Male,Home and lifestyle,604.11,3,90.62,1902.95,3/8/2025,18:00,Cash,1812.33,4.761904762,90.62,6.1
+INV-00741,B,Delhi,Member,Male,Food and beverages,320.94,8,128.38,2695.9,3/8/2025,18:49,Credit card,2567.52,4.761904762,128.38,6.5
+INV-00742,A,Mumbai,Member,Female,Sports and travel,325.28,8,130.11,2732.35,3/8/2025,19:10,Credit card,2602.24,4.761904762,130.11,9.4
+INV-00743,C,Bengaluru,Normal,Female,Electronic accessories,341.54,2,34.15,717.23,3/8/2025,19:18,Credit card,683.08,4.761904762,34.15,6.9
+INV-00744,B,Delhi,Normal,Male,Health and beauty,402.36,10,201.18,4224.78,3/8/2025,19:37,Credit card,4023.6,4.761904762,201.18,6.8
+INV-00745,B,Delhi,Member,Female,Fashion accessories,416.91,2,41.69,875.51,3/9/2025,10:09,Credit card,833.82,4.761904762,41.69,9.8
+INV-00746,B,Delhi,Member,Female,Health and beauty,306.92,10,153.46,3222.66,3/9/2025,10:43,Ewallet,3069.2,4.761904762,153.46,5.6
+INV-00747,A,Mumbai,Member,Female,Home and lifestyle,937.44,4,187.49,3937.25,3/9/2025,11:06,Ewallet,3749.76,4.761904762,187.49,9.5
+INV-00748,C,Bengaluru,Normal,Male,Electronic accessories,872.55,7,305.39,6413.24,3/9/2025,11:22,Ewallet,6107.85,4.761904762,305.39,6.3
+INV-00749,B,Delhi,Normal,Male,Fashion accessories,238.45,5,59.61,1251.86,3/9/2025,13:00,Ewallet,1192.25,4.761904762,59.61,9.5
+INV-00750,C,Bengaluru,Member,Male,Sports and travel,827.28,1,41.36,868.64,3/9/2025,13:02,Cash,827.28,4.761904762,41.36,9.0
+INV-00751,A,Mumbai,Normal,Female,Food and beverages,267.88,9,120.55,2531.47,3/9/2025,13:10,Credit card,2410.92,4.761904762,120.55,7.5
+INV-00752,A,Mumbai,Normal,Male,Food and beverages,308.66,5,77.17,1620.47,3/9/2025,13:23,Cash,1543.3,4.761904762,77.17,7.7
+INV-00753,C,Bengaluru,Member,Female,Home and lifestyle,205.9,7,72.06,1513.36,3/9/2025,13:27,Cash,1441.3,4.761904762,72.06,7.9
+INV-00754,A,Mumbai,Member,Female,Fashion accessories,594.49,4,118.9,2496.86,3/9/2025,14:15,Credit card,2377.96,4.761904762,118.9,4.2
+INV-00755,A,Mumbai,Member,Male,Health and beauty,213.44,10,106.72,2241.12,3/9/2025,14:41,Ewallet,2134.4,4.761904762,106.72,8.1
+INV-00756,A,Mumbai,Member,Male,Sports and travel,197.28,4,39.46,828.58,3/9/2025,15:23,Cash,789.12,4.761904762,39.46,7.5
+INV-00757,B,Delhi,Member,Male,Fashion accessories,638.77,2,63.88,1341.42,3/9/2025,18:45,Ewallet,1277.54,4.761904762,63.88,5.4
+INV-00758,A,Mumbai,Member,Female,Sports and travel,480.94,9,216.42,4544.88,3/9/2025,19:23,Ewallet,4328.46,4.761904762,216.42,7.6
+INV-00759,A,Mumbai,Normal,Male,Fashion accessories,164.74,5,41.18,864.88,3/10/2025,10:08,Credit card,823.7,4.761904762,41.18,6.0
+INV-00760,C,Bengaluru,Normal,Male,Food and beverages,186.25,2,18.62,391.12,3/10/2025,12:09,Credit card,372.5,4.761904762,18.62,6.4
+INV-00761,B,Delhi,Normal,Female,Electronic accessories,663.41,1,33.17,696.58,3/10/2025,13:18,Cash,663.41,4.761904762,33.17,6.1
+INV-00762,B,Delhi,Member,Male,Food and beverages,373.55,6,112.07,2353.37,3/10/2025,14:42,Credit card,2241.3,4.761904762,112.07,6.5
+INV-00763,C,Bengaluru,Member,Female,Home and lifestyle,566.74,9,255.03,5355.69,3/10/2025,14:51,Credit card,5100.66,4.761904762,255.03,9.1
+INV-00764,C,Bengaluru,Member,Female,Home and lifestyle,381.7,4,76.34,1603.14,3/10/2025,15:54,Ewallet,1526.8,4.761904762,76.34,6.7
+INV-00765,C,Bengaluru,Normal,Female,Home and lifestyle,455.79,9,205.11,4307.22,3/10/2025,18:32,Credit card,4102.11,4.761904762,205.11,9.0
+INV-00766,A,Mumbai,Normal,Female,Fashion accessories,111.9,8,44.76,939.96,3/10/2025,19:32,Ewallet,895.2,4.761904762,44.76,7.9
+INV-00767,A,Mumbai,Member,Male,Fashion accessories,411.13,3,61.67,1295.06,3/11/2025,12:21,Ewallet,1233.39,4.761904762,61.67,8.6
+INV-00768,C,Bengaluru,Normal,Male,Health and beauty,228.19,4,45.64,958.4,3/11/2025,12:48,Cash,912.76,4.761904762,45.64,5.6
+INV-00769,C,Bengaluru,Member,Female,Fashion accessories,600.94,6,180.28,3785.92,3/11/2025,13:37,Credit card,3605.64,4.761904762,180.28,8.0
+INV-00770,B,Delhi,Member,Male,Sports and travel,908.03,9,408.61,8580.88,3/11/2025,13:53,Cash,8172.27,4.761904762,408.61,7.1
+INV-00771,C,Bengaluru,Normal,Male,Sports and travel,939.2,8,375.68,7889.28,3/11/2025,18:59,Ewallet,7513.6,4.761904762,375.68,6.9
+INV-00772,B,Delhi,Member,Female,Sports and travel,183.99,3,27.6,579.57,3/11/2025,19:10,Ewallet,551.97,4.761904762,27.6,10.0
+INV-00773,A,Mumbai,Normal,Female,Health and beauty,314.45,5,78.61,1650.86,3/11/2025,19:20,Ewallet,1572.25,4.761904762,78.61,7.6
+INV-00774,C,Bengaluru,Member,Female,Home and lifestyle,302.94,10,151.47,3180.87,3/11/2025,19:26,Ewallet,3029.4,4.761904762,151.47,8.0
+INV-00775,B,Delhi,Member,Male,Electronic accessories,450.52,6,135.16,2838.28,3/11/2025,19:59,Ewallet,2703.12,4.761904762,135.16,
+INV-00776,B,Delhi,Normal,Male,Food and beverages,171.47,4,34.29,720.17,3/11/2025,20:38,Ewallet,685.88,4.761904762,34.29,4.5
+INV-00777,A,Mumbai,Member,Male,Health and beauty,500.16,9,225.07,4726.51,3/12/2025,11:55,Cash,4501.44,4.761904762,225.07,9.0
+INV-00778,B,Delhi,Normal,Female,Home and lifestyle,716.41,7,250.74,5265.61,3/12/2025,13:41,Ewallet,5014.87,4.761904762,250.74,7.1
+INV-00779,C,Bengaluru,Member,Female,Food and beverages,306.3,1,15.32,321.62,3/12/2025,13:53,Cash,306.3,4.761904762,15.32,8.4
+INV-00780,A,Mumbai,Member,Male,Sports and travel,724.34,3,108.65,2281.67,3/12/2025,13:58,Credit card,2173.02,4.761904762,108.65,9.5
+INV-00781,A,Mumbai,Normal,Male,Home and lifestyle,991.71,8,396.68,8330.36,3/12/2025,15:58,Credit card,7933.68,4.761904762,396.68,7.9
+INV-00782,B,Delhi,Member,Male,Home and lifestyle,754.02,7,263.91,5542.05,3/12/2025,18:34,Cash,5278.14,4.761904762,263.91,4.0
+INV-00783,B,Delhi,Normal,Female,Sports and travel,842.98,5,210.74,4425.64,3/13/2025,10:48,Ewallet,4214.9,4.761904762,210.74,6.1
+INV-00784,C,Bengaluru,Normal,Female,Food and beverages,395.64,1,19.78,415.42,3/13/2025,12:24,Credit card,395.64,4.761904762,19.78,5.5
+INV-00785,A,Mumbai,Member,Male,Home and lifestyle,448.69,3,67.3,1413.37,3/13/2025,12:38,Cash,1346.07,4.761904762,67.3,6.8
+INV-00786,A,Mumbai,Normal,Male,Health and beauty,241.0,5,60.25,1265.25,3/13/2025,13:26,Ewallet,1205.0,4.761904762,60.25,8.3
+INV-00787,C,Bengaluru,Member,Male,Health and beauty,198.45,2,19.84,416.74,3/13/2025,13:42,Cash,396.9,4.761904762,19.84,7.1
+INV-00788,C,Bengaluru,Member,Female,Sports and travel,829.62,8,331.85,6968.81,3/13/2025,17:46,Cash,6636.96,4.761904762,331.85,8.0
+INV-00789,B,Delhi,Normal,Male,Sports and travel,251.75,7,88.11,1850.36,3/13/2025,18:33,Ewallet,1762.25,4.761904762,88.11,8.6
+INV-00790,B,Delhi,Normal,Male,Food and beverages,372.93,4,74.59,1566.31,3/13/2025,18:49,Cash,1491.72,4.761904762,74.59,7.1
+INV-00791,C,Bengaluru,Member,Female,Fashion accessories,548.86,4,109.77,2305.21,3/13/2025,19:33,Cash,2195.44,4.761904762,109.77,5.8
+INV-00792,A,Mumbai,Normal,Male,Sports and travel,484.43,1,24.22,508.65,3/13/2025,19:47,Cash,484.43,4.761904762,24.22,5.2
+INV-00793,A,Mumbai,Member,Female,Home and lifestyle,399.76,8,159.9,3357.98,3/13/2025,20:14,Credit card,3198.08,4.761904762,159.9,8.0
+INV-00794,C,Bengaluru,Normal,Male,Fashion accessories,263.29,7,92.15,1935.18,3/13/2025,20:25,Ewallet,1843.03,4.761904762,92.15,5.3
+INV-00795,B,Delhi,Member,Female,Food and beverages,79.72,8,31.89,669.65,3/13/2025,20:51,Credit card,637.76,4.761904762,31.89,9.7
+INV-00796,C,Bengaluru,Member,Male,Food and beverages,377.9,6,113.37,2380.77,3/14/2025,11:32,Credit card,2267.4,4.761904762,113.37,8.8
+INV-00797,C,Bengaluru,Normal,Female,Fashion accessories,543.85,3,81.58,1713.13,3/14/2025,13:16,Cash,1631.55,4.761904762,81.58,7.6
+INV-00798,B,Delhi,Member,Female,Home and lifestyle,293.11,5,73.28,1538.83,3/14/2025,13:19,Ewallet,1465.55,4.761904762,73.28,7.7
+INV-00799,A,Mumbai,Normal,Female,Food and beverages,114.82,4,22.96,482.24,3/14/2025,14:44,Cash,459.28,4.761904762,22.96,5.2
+INV-00800,A,Mumbai,Member,Female,Home and lifestyle,980.35,7,343.12,7205.57,3/14/2025,15:14,Credit card,6862.45,4.761904762,343.12,8.2
+INV-00801,C,Bengaluru,Member,Male,Sports and travel,243.62,4,48.72,1023.2,3/14/2025,15:32,Cash,974.48,4.761904762,48.72,9.1
+INV-00802,C,Bengaluru,Member,Female,Home and lifestyle,997.58,2,99.76,2094.92,3/14/2025,15:35,Ewallet,1995.16,4.761904762,99.76,9.0
+INV-00803,B,Delhi,Member,Male,Fashion accessories,656.86,2,65.69,1379.41,3/14/2025,16:26,Ewallet,1313.72,4.761904762,65.69,7.4
+INV-00804,C,Bengaluru,Normal,Male,Food and beverages,88.15,6,26.44,555.34,3/14/2025,16:45,Ewallet,528.9,4.761904762,26.44,5.2
+INV-00805,B,Delhi,Normal,Male,Health and beauty,117.74,7,41.21,865.39,3/14/2025,19:03,Credit card,824.18,4.761904762,41.21,6.5
+INV-00806,C,Bengaluru,Normal,Female,Health and beauty,487.23,5,121.81,2557.96,3/14/2025,20:43,Ewallet,2436.15,4.761904762,121.81,8.3
+INV-00807,A,Mumbai,Normal,Female,Sports and travel,729.62,4,145.92,3064.4,3/14/2025,20:51,Cash,2918.48,4.761904762,145.92,6.4
+INV-00808,C,Bengaluru,Normal,Female,Health and beauty,319.38,1,15.97,335.35,3/15/2025,10:01,Cash,319.38,4.761904762,15.97,6.7
+INV-00809,A,Mumbai,Member,Female,Home and lifestyle,290.21,9,130.59,2742.48,3/15/2025,10:12,Credit card,2611.89,4.761904762,130.59,4.4
+INV-00810,C,Bengaluru,Normal,Male,Electronic accessories,585.94,2,58.59,1230.47,3/15/2025,10:26,Cash,1171.88,4.761904762,58.59,6.1
+INV-00811,B,Delhi,Normal,Female,Health and beauty,550.3,5,137.58,2889.08,3/15/2025,11:50,Ewallet,2751.5,4.761904762,137.58,7.8
+INV-00812,A,Mumbai,Member,Female,Food and beverages,369.86,8,147.94,3106.82,3/15/2025,13:08,Cash,2958.88,4.761904762,147.94,6.0
+INV-00813,A,Mumbai,Member,Male,Home and lifestyle,794.64,4,158.93,3337.49,3/15/2025,13:09,Credit card,3178.56,4.761904762,158.93,5.8
+INV-00814,A,Mumbai,Normal,Male,Sports and travel,179.35,2,17.93,376.63,3/15/2025,13:10,Cash,358.7,4.761904762,17.93,7.4
+INV-00815,C,Bengaluru,Member,Female,Fashion accessories,638.65,10,319.33,6705.83,3/15/2025,13:50,Credit card,6386.5,4.761904762,319.33,6.7
+INV-00816,A,Mumbai,Normal,Female,Home and lifestyle,576.83,6,173.05,3634.03,3/15/2025,14:15,Cash,3460.98,4.761904762,173.05,9.5
+INV-00817,A,Mumbai,Member,Male,Health and beauty,437.6,1,21.88,459.48,3/15/2025,17:10,Cash,437.6,4.761904762,21.88,5.5
+INV-00818,B,Delhi,Normal,Female,Electronic accessories,894.51,3,134.18,2817.71,3/15/2025,17:13,Credit card,2683.53,4.761904762,134.18,4.9
+INV-00819,B,Delhi,Normal,Male,Health and beauty,282.34,6,84.7,1778.74,3/15/2025,17:26,Credit card,1694.04,4.761904762,84.7,7.9
+INV-00820,B,Delhi,Normal,Female,Health and beauty,449.16,4,89.83,1886.47,3/15/2025,18:31,Credit card,1796.64,4.761904762,89.83,6.6
+INV-00821,A,Mumbai,Normal,Female,Fashion accessories,670.02,7,234.51,4924.65,3/15/2025,19:03,Cash,4690.14,4.761904762,234.51,7.1
+INV-00822,A,Mumbai,Normal,Male,Sports and travel,929.11,9,418.1,8780.09,3/15/2025,19:56,Cash,8361.99,4.761904762,418.1,8.4
+INV-00823,C,Bengaluru,Member,Female,Electronic accessories,867.85,5,216.96,4556.21,3/15/2025,20:09,Credit card,4339.25,4.761904762,216.96,5.9
+INV-00824,B,Delhi,Normal,Male,Food and beverages,191.67,1,9.58,201.25,3/16/2025,10:30,Ewallet,191.67,4.761904762,9.58,4.5
+INV-00825,A,Mumbai,Normal,Female,Fashion accessories,366.87,4,73.37,1540.85,3/16/2025,11:04,Cash,1467.48,4.761904762,73.37,9.0
+INV-00826,C,Bengaluru,Member,Female,Electronic accessories,862.01,2,86.2,1810.22,3/16/2025,12:41,Credit card,1724.02,4.761904762,86.2,8.2
+INV-00827,C,Bengaluru,Normal,Male,Electronic accessories,387.64,1,19.38,407.02,3/16/2025,13:37,Ewallet,387.64,4.761904762,19.38,6.0
+INV-00828,C,Bengaluru,Normal,Male,Sports and travel,189.7,8,75.88,1593.48,3/16/2025,14:31,Cash,1517.6,4.761904762,75.88,8.7
+INV-00829,A,Mumbai,Normal,Female,Health and beauty,503.78,8,201.51,4231.75,3/16/2025,14:55,ewallet,4030.24,4.761904762,201.51,4.6
+INV-00830,C,Bengaluru,Member,Female,Home and lifestyle,509.59,7,178.36,3745.49,3/16/2025,14:59,Cash,3567.13,4.761904762,178.36,7.1
+INV-00831,C,Bengaluru,Member,Female,Home and lifestyle,777.91,9,350.06,7351.25,3/16/2025,15:19,Credit card,7001.19,4.761904762,350.06,5.8
+INV-00832,B,Delhi,Normal,Female,Health and beauty,353.85,1,17.69,371.54,3/16/2025,15:23,Credit card,353.85,4.761904762,17.69,8.2
+INV-00833,A,Mumbai,Normal,Male,Health and beauty,423.27,8,169.31,3555.47,3/16/2025,16:14,Cash,3386.16,4.761904762,169.31,6.0
+INV-00834,C,Bengaluru,Member,Male,Health and beauty,210.32,10,105.16,2208.36,3/16/2025,16:23,Credit card,2103.2,4.761904762,105.16,4.0
+INV-00835,C,Bengaluru,Member,Male,Sports and travel,380.36,5,95.09,1996.89,3/16/2025,16:36,Cash,1901.8,4.761904762,95.09,5.5
+INV-00836,C,Bengaluru,Normal,Female,Home and lifestyle,771.29,7,269.95,5668.98,3/16/2025,17:25,Credit card,5399.03,4.761904762,269.95,6.2
+INV-00837,A,Mumbai,Member,Male,Health and beauty,444.28,3,66.64,1399.48,3/16/2025,17:30,Ewallet,1332.84,4.761904762,66.64,7.4
+INV-00838,A,Mumbai,Member,Female,Electronic accessories,898.78,5,224.7,4718.6,3/16/2025,17:44,Credit card,4493.9,4.761904762,224.7,8.5
+INV-00839,B,Delhi,Member,Male,Home and lifestyle,433.36,7,151.68,3185.2,3/16/2025,18:21,Cash,3033.52,4.761904762,151.68,8.7
+INV-00840,A,Mumbai,Member,Male,Sports and travel,478.89,10,239.44,5028.34,3/16/2025,18:34,Credit card,4788.9,4.761904762,239.44,7.1
+INV-00841,A,Mumbai,Normal,Female,Sports and travel,285.51,9,128.48,2698.07,3/16/2025,19:11,Cash,2569.59,4.761904762,128.48,4.0
+INV-00842,B,Delhi,Normal,Male,Fashion accessories,411.31,8,164.52,3455.0,3/16/2025,19:17,Credit card,3290.48,4.761904762,164.52,4.2
+INV-00843,A,Mumbai,Member,Female,Sports and travel,191.99,10,96.0,2015.9,3/16/2025,19:22,Credit card,1919.9,4.761904762,96.0,6.9
+INV-00844,B,Delhi,Member,Female,Health and beauty,500.32,9,225.14,4728.02,3/16/2025,19:45,Ewallet,4502.88,4.761904762,225.14,7.9
+INV-00845,A,Mumbai,Normal,Female,Home and lifestyle,960.08,2,96.01,2016.17,3/16/2025,20:12,Ewallet,1920.16,4.761904762,96.01,6.2
+INV-00846,A,Mumbai,Normal,Female,Fashion accessories,334.68,6,100.4,2108.48,3/16/2025,20:28,Credit card,2008.08,4.761904762,100.4,8.6
+INV-00847,C,Bengaluru,Normal,Male,Sports and travel,253.89,5,63.47,1332.92,3/17/2025,12:00,Cash,1269.45,4.761904762,63.47,6.8
+INV-00848,B,Delhi,Normal,Female,Electronic accessories,234.29,10,117.15,2460.05,3/17/2025,13:20,Ewallet,2342.9,4.761904762,117.15,6.8
+INV-00849,B,Delhi,Normal,Male,Fashion accessories,333.73,8,133.49,2803.33,3/17/2025,14:29,Credit card,2669.84,4.761904762,133.49,8.9
+INV-00850,C,Bengaluru,Member,Female,Sports and travel,224.3,1,11.22,235.52,3/17/2025,15:21,Cash,224.3,4.761904762,11.22,8.6
+INV-00851,C,Bengaluru,Normal,Male,Food and beverages,231.17,8,92.47,1941.83,3/17/2025,16:16,Ewallet,1849.36,4.761904762,92.47,6.1
+INV-00852,B,Delhi,Member,Male,Sports and travel,345.63,7,120.97,2540.38,3/17/2025,16:40,Cash,2419.41,4.761904762,120.97,5.9
+INV-00853,A,Mumbai,Member,Female,Fashion accessories,519.29,8,207.72,4362.04,3/17/2025,18:20,Ewallet,4154.32,4.761904762,207.72,4.1
+INV-00854,A,Mumbai,Member,Male,Health and beauty,255.49,7,89.42,1877.85,3/18/2025,12:47,Ewallet,1788.43,4.761904762,89.42,6.4
+INV-00855,C,Bengaluru,Normal,Female,Home and lifestyle,435.4,10,217.7,4571.7,3/18/2025,13:05,Cash,4354.0,4.761904762,217.7,4.6
+INV-00856,B,Delhi,Member,Female,Electronic accessories,258.69,4,51.74,1086.5,3/18/2025,13:42,Cash,1034.76,4.761904762,51.74,9.8
+INV-00857,B,Delhi,Normal,Female,Sports and travel,509.48,9,229.27,4814.59,3/18/2025,14:00,Credit card,4585.32,4.761904762,229.27,4.0
+INV-00858,C,Bengaluru,Normal,Female,Sports and travel,234.09,6,70.23,1474.77,3/18/2025,17:20,Ewallet,1404.54,4.761904762,70.23,6.1
+INV-00859,C,Bengaluru,Member,Male,Home and lifestyle,371.11,8,148.44,3117.32,3/18/2025,17:37,Cash,2968.88,4.761904762,148.44,5.9
+INV-00860,A,Mumbai,Normal,Male,Sports and travel,163.27,7,57.14,1200.03,3/18/2025,17:47,Cash,1142.89,4.761904762,57.14,4.6
+INV-00861,B,Delhi,Normal,Female,Fashion accessories,655.6,6,196.68,4130.28,3/18/2025,19:12,Ewallet,3933.6,4.761904762,196.68,10.0
+INV-00862,B,Delhi,Normal,Female,Electronic accessories,849.02,7,297.16,6240.3,3/18/2025,19:21,Ewallet,5943.14,4.761904762,297.16,7.1
+INV-00863,C,Bengaluru,Normal,Female,Home and lifestyle,548.03,10,274.02,5754.32,3/18/2025,20:57,Cash,5480.3,4.761904762,274.02,5.8
+INV-00864,C,Bengaluru,Normal,Female,Health and beauty,593.99,3,89.1,1871.07,3/19/2025,12:06,Credit card,1781.97,4.761904762,89.1,8.5
+INV-00865,C,Bengaluru,Normal,Female,Food and beverages,179.67,7,62.88,1320.57,3/19/2025,12:45,Cash,1257.69,4.761904762,62.88,7.4
+INV-00866,A,Mumbai,Member,Male,Food and beverages,366.58,5,91.65,1924.55,3/19/2025,13:04,Ewallet,1832.9,4.761904762,91.65,4.0
+INV-00867,A,Mumbai,Member,Female,Health and beauty,381.66,9,171.75,3606.69,3/19/2025,16:48,Cash,3434.94,4.761904762,171.75,6.9
+INV-00868,C,Bengaluru,Normal,Male,Sports and travel,929.59,8,371.84,7808.56,3/19/2025,19:08,Cash,7436.72,4.761904762,371.84,8.1
+INV-00869,C,Bengaluru,Normal,Male,Food and beverages,192.2,2,19.22,403.62,3/20/2025,10:21,Cash,384.4,4.761904762,19.22,5.7
+INV-00870,B,Delhi,Normal,Male,Health and beauty,148.22,4,29.64,622.52,3/20/2025,11:12,Credit card,592.88,4.761904762,29.64,4.7
+INV-00871,A,Mumbai,Normal,Male,Food and beverages,358.67,4,71.73,1506.41,3/20/2025,11:21,Ewallet,1434.68,4.761904762,71.73,9.7
+INV-00872,A,Mumbai,Member,Female,Food and beverages,303.31,6,90.99,1910.85,3/20/2025,11:43,Ewallet,1819.86,4.761904762,90.99,6.1
+INV-00873,C,Bengaluru,Normal,Female,Food and beverages,115.45,8,46.18,969.78,3/20/2025,19:01,Credit card,923.6,4.761904762,46.18,10.0
+INV-00874,A,Mumbai,Member,Male,Health and beauty,573.25,9,257.96,5417.21,3/21/2025,14:26,Cash,5159.25,4.761904762,257.96,6.6
+INV-00875,B,Delhi,Member,Female,Health and beauty,491.54,8,196.62,4128.94,3/21/2025,14:34,Credit card,3932.32,4.761904762,196.62,4.4
+INV-00876,A,Mumbai,Normal,Male,Electronic accessories,427.54,3,64.13,1346.75,3/21/2025,15:42,Cash,1282.62,4.761904762,64.13,6.3
+INV-00877,A,Mumbai,Member,Female,Fashion accessories,269.33,4,53.87,1131.19,3/21/2025,16:09,Ewallet,1077.32,4.761904762,53.87,5.9
+INV-00878,A,Mumbai,Member,Male,Fashion accessories,179.68,9,80.86,1697.98,3/21/2025,17:19,Ewallet,1617.12,4.761904762,80.86,5.8
+INV-00879,B,Delhi,Normal,Female,Food and beverages,158.31,1,7.92,166.23,3/21/2025,19:34,Ewallet,158.31,4.761904762,7.92,4.7
+INV-00880,A,Mumbai,Member,Female,Health and beauty,519.66,2,51.97,1091.29,3/21/2025,20:29,Cash,1039.32,4.761904762,51.97,8.6
+INV-00881,A,Mumbai,Normal,Male,Electronic accessories,343.59,7,120.26,2525.39,3/21/2025,20:39,Credit card,2405.13,4.761904762,120.26,5.8
+INV-00882,B,Delhi,Normal,Male,Sports and travel,695.14,6,208.54,4379.38,3/22/2025,11:31,Cash,4170.84,4.761904762,208.54,6.0
+INV-00883,A,Mumbai,Normal,Male,Fashion accessories,487.09,5,121.77,2557.22,3/22/2025,12:57,Ewallet,2435.45,4.761904762,121.77,5.9
+INV-00884,C,Bengaluru,Normal,Male,Fashion accessories,658.5,4,131.7,2765.7,3/22/2025,13:54,Credit card,2634.0,4.761904762,131.7,6.5
+INV-00885,A,Mumbai,Member,Male,Fashion accessories,265.94,4,53.19,1116.95,3/22/2025,14:44,Cash,1063.76,4.761904762,53.19,6.8
+INV-00886,C,Bengaluru,Normal,Female,Health and beauty,484.75,1,24.24,508.99,3/22/2025,14:59,Ewallet,484.75,4.761904762,24.24,8.0
+INV-00887,C,Bengaluru,Member,Male,Home and lifestyle,879.9,10,439.95,9238.95,3/22/2025,18:37,Cash,8799.0,4.761904762,439.95,6.4
+INV-00888,C,Bengaluru,Member,Male,Electronic accessories,473.93,6,142.18,2985.76,3/22/2025,18:55,Cash,2843.58,4.761904762,142.18,5.3
+INV-00889,C,Bengaluru,Member,Male,Food and beverages,159.57,6,47.87,1005.29,3/22/2025,19:33,Ewallet,957.42,4.761904762,47.87,7.0
+INV-00890,C,Bengaluru,Member,Female,Sports and travel,648.01,8,259.2,5443.28,3/22/2025,19:50,Ewallet,5184.08,4.761904762,259.2,8.4
+INV-00891,C,Bengaluru,Normal,Male,Electronic accessories,862.35,6,258.71,5432.81,3/22/2025,19:54,Cash,5174.1,4.761904762,258.71,8.5
+INV-00892,A,Mumbai,Normal,Male,Electronic accessories,780.18,2,78.02,1638.38,3/23/2025,10:01,Credit card,1560.36,4.761904762,78.02,7.8
+INV-00893,C,Bengaluru,Member,Male,Electronic accessories,378.3,7,132.4,2780.5,3/23/2025,11:04,Ewallet,2648.1,4.761904762,132.4,9.4
+INV-00894,B,Delhi,Member,Male,Fashion accessories,547.76,5,136.94,2875.74,3/23/2025,11:31,Cash,2738.8,4.761904762,136.94,9.9
+INV-00895,A,Mumbai,Normal,Male,Sports and travel,706.38,5,176.6,3708.5,3/23/2025,11:52,Ewallet,3531.9,4.761904762,176.6,8.6
+INV-00896,A,Mumbai,Normal,Male,Home and lifestyle,385.67,2,38.57,809.91,3/23/2025,12:38,Ewallet,771.34,4.761904762,38.57,7.1
+INV-00897,C,Bengaluru,Member,Female,Sports and travel,329.25,3,49.39,1037.14,3/23/2025,13:38,Credit card,987.75,4.761904762,49.39,5.4
+INV-00898,A,Mumbai,Normal,Male,Electronic accessories,627.74,9,282.48,5932.14,3/23/2025,14:28,Cash,5649.66,4.761904762,282.48,8.2
+INV-00899,B,Delhi,Normal,Female,Fashion accessories,122.27,5,30.57,641.92,3/23/2025,16:48,Credit card,611.35,4.761904762,30.57,6.3
+INV-00900,C,Bengaluru,Normal,Female,Electronic accessories,680.61,2,68.06,1429.28,3/23/2025,18:00,Ewallet,1361.22,4.761904762,68.06,8.8
+INV-00901,A,Mumbai,Member,Male,Home and lifestyle,683.78,6,205.13,4307.81,3/23/2025,18:36,Cash,4102.68,4.761904762,205.13,5.7
+INV-00902,A,Mumbai,Member,Female,Health and beauty,284.15,6,85.24,1790.14,3/23/2025,19:11,Credit card,1704.9,4.761904762,85.24,4.2
+INV-00903,A,Mumbai,Member,Male,Home and lifestyle,357.8,1,17.89,375.69,3/23/2025,20:02,Cash,357.8,4.761904762,17.89,8.3
+INV-00904,C,Bengaluru,Normal,Female,Electronic accessories,415.04,7,145.26,3050.54,3/23/2025,20:25,Ewallet,2905.28,4.761904762,145.26,6.6
+INV-00905,A,Mumbai,Normal,Male,Health and beauty,350.21,9,157.59,3309.48,3/23/2025,20:56,Cash,3151.89,4.761904762,157.59,5.5
+INV-00906,B,Delhi,Normal,Male,Sports and travel,522.35,9,235.06,4936.21,3/24/2025,11:04,Ewallet,4701.15,4.761904762,235.06,7.0
+INV-00907,C,Bengaluru,Normal,Female,Food and beverages,299.59,7,104.86,2201.99,3/24/2025,12:27,Cash,2097.13,4.761904762,104.86,4.9
+INV-00908,C,Bengaluru,Normal,Male,Fashion accessories,182.07,8,72.83,1529.39,3/24/2025,13:16,Credit card,1456.56,4.761904762,72.83,7.3
+INV-00909,C,Bengaluru,Member,Male,Home and lifestyle,612.1,10,306.05,6427.05,3/24/2025,13:32,Ewallet,6121.0,4.761904762,306.05,4.4
+INV-00910,B,Delhi,Member,Female,Fashion accessories,612.64,9,275.69,5789.45,3/24/2025,14:46,Credit card,5513.76,4.761904762,275.69,7.2
+INV-00911,C,Bengaluru,Normal,Female,Fashion accessories,650.78,2,65.08,1366.64,3/24/2025,15:05,Cash,1301.56,4.761904762,65.08,7.5
+INV-00912,B,Delhi,Member,Female,Food and beverages,56.86,9,25.59,537.33,3/24/2025,15:08,Cash,511.74,4.761904762,25.59,5.5
+INV-00913,C,Bengaluru,Normal,Male,Fashion accessories,637.43,3,95.61,2007.9,3/24/2025,15:32,Ewallet,1912.29,4.761904762,95.61,6.3
+INV-00914,C,Bengaluru,Member,Female,Health and beauty,169.65,4,33.93,712.53,3/24/2025,16:27,Cash,678.6,4.761904762,33.93,5.5
+INV-00915,C,Bengaluru,Member,Female,Home and lifestyle,574.6,8,229.84,4826.64,3/24/2025,17:59,Ewallet,4596.8,4.761904762,229.84,4.7
+INV-00916,C,Bengaluru,Member,Female,Home and lifestyle,807.35,4,161.47,3390.87,3/24/2025,18:32,Ewallet,3229.4,4.761904762,161.47,5.5
+INV-00917,A,Mumbai,Normal,Male,Home and lifestyle,243.46,5,60.86,1278.16,3/24/2025,19:54,Cash,1217.3,4.761904762,60.86,9.5
+INV-00918,C,Bengaluru,Member,Male,Sports and travel,650.37,5,162.59,3414.44,3/24/2025,20:03,Cash,3251.85,4.761904762,162.59,7.4
+INV-00919,A,Mumbai,Normal,Female,Electronic accessories,897.35,10,448.68,9422.18,3/24/2025,20:39,Credit card,8973.5,4.761904762,448.68,5.5
+INV-00920,B,Delhi,Normal,Male,Food and beverages,119.83,5,29.96,629.11,3/24/2025,20:40,Credit card,599.15,4.761904762,29.96,5.8
+INV-00921,B,Delhi,Member,Female,Home and lifestyle,974.82,4,194.96,4094.24,3/25/2025,10:19,Credit card,3899.28,4.761904762,194.96,10.0
+INV-00922,A,Mumbai,Normal,Male,Health and beauty,365.28,4,73.06,1534.18,3/25/2025,12:49,Ewallet,1461.12,4.761904762,73.06,6.2
+INV-00923,A,Mumbai,Member,Female,Electronic accessories,254.2,5,63.55,1334.55,3/25/2025,13:15,Ewallet,1271.0,4.761904762,63.55,6.2
+INV-00924,C,Bengaluru,Member,Male,Fashion accessories,361.55,5,90.39,1898.14,3/25/2025,14:25,Credit card,1807.75,4.761904762,90.39,9.3
+INV-00925,B,Delhi,Normal,Female,Sports and travel,843.1,4,168.62,3541.02,3/25/2025,18:22,Credit card,3372.4,4.761904762,168.62,6.3
+INV-00926,B,Delhi,Member,Female,Health and beauty,84.87,10,42.44,891.14,3/25/2025,18:42,Credit card,848.7,4.761904762,42.44,6.4
+INV-00927,C,Bengaluru,Normal,Male,Health and beauty,480.48,2,48.05,1009.01,3/25/2025,19:11,Ewallet,960.96,4.761904762,48.05,7.0
+INV-00928,B,Delhi,Normal,Male,Fashion accessories,673.51,1,33.68,707.19,3/26/2025,14:48,Credit card,673.51,4.761904762,33.68,6.3
+INV-00929,C,Bengaluru,Member,Male,Fashion accessories,416.0,8,166.4,3494.4,3/26/2025,17:23,Ewallet,3328.0,4.761904762,166.4,7.5
+INV-00930,A,Mumbai,Normal,Male,Sports and travel,438.72,3,65.81,1381.97,3/26/2025,17:53,Cash,1316.16,4.761904762,65.81,6.6
+INV-00931,B,Delhi,Member,Female,Electronic accessories,580.12,6,174.04,3654.76,3/26/2025,18:29,Ewallet,3480.72,4.761904762,174.04,7.9
+INV-00932,A,Mumbai,Normal,Male,Fashion accessories,691.06,7,241.87,5079.29,3/26/2025,19:57,Ewallet,4837.42,4.761904762,241.87,5.9
+INV-00933,C,Bengaluru,Member,Male,Electronic accessories,174.94,10,87.47,1836.87,3/27/2025,11:01,Ewallet,1749.4,4.761904762,87.47,8.6
+INV-00934,C,Bengaluru,Normal,Male,Electronic accessories,352.68,7,123.44,2592.2,3/27/2025,12:49,Credit card,2468.76,4.761904762,123.44,7.6
+INV-00935,B,Delhi,Member,Male,Fashion accessories,235.56,7,82.45,1731.37,3/27/2025,13:27,Cash,1648.92,4.761904762,82.45,7.3
+INV-00936,C,Bengaluru,Normal,Male,Electronic accessories,738.77,7,258.57,5429.96,3/27/2025,13:45,Cash,5171.39,4.761904762,258.57,4.4
+INV-00937,B,Delhi,Normal,Female,Health and beauty,368.18,8,147.27,3092.71,3/27/2025,16:10,Cash,2945.44,4.761904762,147.27,9.6
+INV-00938,A,Mumbai,Normal,Female,Electronic accessories,241.0,10,120.5,2530.5,3/27/2025,17:44,Cash,2410.0,4.761904762,120.5,5.1
+INV-00939,C,Bengaluru,Member,Female,Sports and travel,748.56,4,149.71,3143.95,3/27/2025,18:30,Cash,2994.24,4.761904762,149.71,5.3
+INV-00940,C,Bengaluru,Member,Male,Food and beverages,386.13,10,193.07,4054.37,3/27/2025,19:18,Ewallet,3861.3,4.761904762,193.07,6.3
+INV-00941,B,Delhi,Normal,Female,Food and beverages,93.22,9,41.95,880.93,3/27/2025,20:11,Credit card,838.98,4.761904762,41.95,7.8
+INV-00942,A,Mumbai,Member,Female,Fashion accessories,627.4,2,62.74,1317.54,3/28/2025,11:42,Cash,1254.8,4.761904762,62.74,8.7
+INV-00943,B,Delhi,Member,Female,Food and beverages,114.35,2,11.44,240.14,3/28/2025,12:10,Ewallet,228.7,4.761904762,11.44,7.5
+INV-00944,A,Mumbai,Member,Female,Electronic accessories,686.66,6,206.0,4325.96,3/28/2025,16:53,Credit card,4119.96,4.761904762,206.0,10.0
+INV-00945,C,Bengaluru,Member,Female,Electronic accessories,518.9,7,181.62,3813.92,3/28/2025,17:08,Credit card,3632.3,4.761904762,181.62,8.2
+INV-00946,C,Bengaluru,Member,Male,Sports and travel,942.72,7,329.95,6928.99,3/28/2025,17:34,Cash,6599.04,4.761904762,329.95,9.2
+INV-00947,C,Bengaluru,Member,Female,Fashion accessories,372.31,9,167.54,3518.33,3/28/2025,18:35,Ewallet,3350.79,4.761904762,167.54,7.0
+INV-00948,B,Delhi,Member,Female,Food and beverages,74.54,1,3.73,78.27,3/28/2025,18:40,Credit card,74.54,4.761904762,3.73,6.0
+INV-00949,C,Bengaluru,Member,Male,Health and beauty,347.76,8,139.1,2921.18,3/28/2025,18:55,Credit card,2782.08,4.761904762,139.1,9.2
+INV-00950,C,Bengaluru,Normal,Female,Food and beverages,346.56,9,155.95,3274.99,3/28/2025,19:18,Ewallet,3119.04,4.761904762,155.95,5.8
+INV-00951,A,Mumbai,Member,Female,Electronic accessories,404.85,9,182.18,3825.83,3/28/2025,20:24,Credit card,3643.65,4.761904762,182.18,4.0
+INV-00952,A,Mumbai,Normal,Female,Sports and travel,468.43,4,93.69,1967.41,3/29/2025,11:24,Ewallet,1873.72,4.761904762,93.69,7.4
+INV-00953,C,Bengaluru,Normal,Female,Sports and travel,916.42,9,412.39,8660.17,3/29/2025,11:53,Credit card,8247.78,4.761904762,412.39,7.6
+INV-00954,B,Delhi,Member,Male,Home and lifestyle,263.97,4,52.79,1108.67,3/29/2025,12:36,Cash,1055.88,4.761904762,52.79,8.1
+INV-00955,B,Delhi,Member,Female,Fashion accessories,364.59,8,145.84,3062.56,3/29/2025,14:20,Cash,2916.72,4.761904762,145.84,5.4
+INV-00956,B,Delhi,Normal,Male,Health and beauty,181.81,6,54.54,1145.4,3/29/2025,14:44,Cash,1090.86,4.761904762,54.54,6.7
+INV-00957,C,Bengaluru,Member,Male,Food and beverages,178.01,8,71.2,1495.28,3/29/2025,15:44,Cash,1424.08,4.761904762,71.2,7.8
+INV-00958,A,Mumbai,Member,Female,Home and lifestyle,749.38,5,187.35,3934.25,3/29/2025,15:52,Cash,3746.9,4.761904762,187.35,7.0
+INV-00959,A,Mumbai,Member,Female,Food and beverages,365.04,1,18.25,383.29,3/29/2025,15:53,Cash,365.04,4.761904762,18.25,4.0
+INV-00960,A,Mumbai,Normal,Female,Health and beauty,468.52,2,46.85,983.89,3/29/2025,16:41,Credit card,937.04,4.761904762,46.85,7.6
+INV-00961,A,Mumbai,Normal,Female,Sports and travel,726.2,2,72.62,1525.02,3/29/2025,18:00,Ewallet,1452.4,4.761904762,72.62,7.7
+INV-00962,C,Bengaluru,Normal,Female,Fashion accessories,227.6,1,11.38,238.98,3/29/2025,18:15,Cash,227.6,4.761904762,11.38,7.7
+INV-00963,B,Delhi,Normal,Female,Fashion accessories,342.79,2,34.28,719.86,3/29/2025,18:34,Cash,685.58,4.761904762,34.28,6.2
+INV-00964,C,Bengaluru,Member,Female,Electronic accessories,301.58,8,120.63,2533.27,3/29/2025,18:37,Credit card,2412.64,4.761904762,120.63,8.6
+INV-00965,B,Delhi,Normal,Male,Sports and travel,193.52,7,67.73,1422.37,3/29/2025,18:41,Ewallet,1354.64,4.761904762,67.73,5.7
+INV-00966,A,Mumbai,Normal,Male,Health and beauty,528.05,1,26.4,554.45,3/29/2025,19:38,Cash,528.05,4.761904762,26.4,6.4
+INV-00967,B,Delhi,Member,Female,Electronic accessories,774.47,6,232.34,4879.16,3/29/2025,20:07,Credit card,4646.82,4.761904762,232.34,7.7
+INV-00968,A,Mumbai,Member,Male,Health and beauty,596.15,10,298.08,6259.58,3/29/2025,20:11,Credit card,5961.5,4.761904762,298.08,6.8
+INV-00969,B,Delhi,Normal,Female,Food and beverages,171.07,4,34.21,718.49,3/29/2025,20:37,Ewallet,684.28,4.761904762,34.21,5.1
+INV-00970,C,Bengaluru,Member,Male,Health and beauty,510.15,8,204.06,4285.26,3/29/2025,20:51,Cash,4081.2,4.761904762,204.06,6.9
+INV-00971,B,Delhi,Member,Female,Electronic accessories,529.05,10,264.53,5555.03,3/29/2025,20:55,Cash,5290.5,4.761904762,264.53,6.4
+INV-00972,B,Delhi,Normal,Male,Food and beverages,334.37,6,100.31,2106.53,3/30/2025,10:00,Credit card,2006.22,4.761904762,100.31,6.6
+INV-00973,B,Delhi,Normal,Female,Electronic accessories,294.65,3,44.2,928.15,3/30/2025,10:37,Cash,883.95,4.761904762,44.2,8.8
+INV-00974,B,Delhi,Member,Female,Home and lifestyle,332.59,7,116.41,2444.54,3/30/2025,10:51,Ewallet,2328.13,4.761904762,116.41,7.1
+INV-00975,B,Delhi,Member,Male,Fashion accessories,543.16,9,244.42,5132.86,3/30/2025,11:25,Credit card,4888.44,4.761904762,244.42,7.3
+INV-00976,A,Mumbai,Member,Male,Home and lifestyle,203.67,3,30.55,641.56,3/30/2025,12:12,Cash,611.01,4.761904762,30.55,5.3
+INV-00977,C,Bengaluru,Member,Male,Food and beverages,217.56,8,87.02,1827.5,3/30/2025,12:27,Ewallet,1740.48,4.761904762,87.02,4.7
+INV-00978,B,Delhi,Normal,Male,Sports and travel,604.98,6,181.49,3811.37,3/30/2025,12:28,cash,3629.88,4.761904762,181.49,4.4
+INV-00979,B,Delhi,Normal,Female,Health and beauty,464.79,7,162.68,3416.21,3/30/2025,14:21,Cash,3253.53,4.761904762,162.68,6.9
+INV-00980,C,Bengaluru,Member,Female,Home and lifestyle,623.38,6,187.01,3927.29,3/30/2025,14:43,Credit card,3740.28,4.761904762,187.01,6.0
+INV-00981,C,Bengaluru,Normal,Female,Sports and travel,660.27,6,198.08,4159.7,3/30/2025,14:47,Cash,3961.62,4.761904762,198.08,7.8
+INV-00982,B,Delhi,Normal,Male,Electronic accessories,558.56,9,251.35,5278.39,3/30/2025,16:51,Credit card,5027.04,4.761904762,251.35,5.8
+INV-00983,A,Mumbai,Member,Female,Food and beverages,172.14,5,43.04,903.74,3/30/2025,17:06,Cash,860.7,4.761904762,43.04,7.8
+INV-00984,B,Delhi,Normal,Male,Sports and travel,507.92,3,76.19,1599.95,3/30/2025,20:21,Ewallet,1523.76,4.761904762,76.19,5.2
+INV-00985,B,Delhi,Normal,Male,Health and beauty,559.44,1,27.97,587.41,3/31/2025,10:21,Ewallet,559.44,4.761904762,27.97,6.9
+INV-00986,B,Delhi,Normal,Male,Home and lifestyle,531.25,2,53.12,1115.62,3/31/2025,12:23,Ewallet,1062.5,4.761904762,53.12,7.5
+INV-00987,A,Mumbai,Normal,Female,Sports and travel,217.88,2,21.79,457.55,3/31/2025,12:44,Cash,435.76,4.761904762,21.79,8.7
+INV-00988,B,Delhi,Normal,Male,Health and beauty,123.35,10,61.68,1295.18,3/31/2025,13:29,Cash,1233.5,4.761904762,61.68,10.0
+INV-00989,C,Bengaluru,Normal,Female,Sports and travel,671.1,1,33.56,704.66,3/31/2025,13:51,Credit card,671.1,4.761904762,33.56,5.4
+INV-00990,B,Delhi,Normal,Female,Health and beauty,228.94,2,22.89,480.77,3/31/2025,14:03,Cash,457.88,4.761904762,22.89,6.4
+INV-00991,A,Mumbai,Member,Female,Electronic accessories,802.78,8,321.11,6743.35,3/31/2025,17:13,Credit card,6422.24,4.761904762,321.11,6.9
+INV-00992,C,Bengaluru,Normal,Male,Home and lifestyle,680.72,10,340.36,7147.56,3/31/2025,17:14,Credit card,6807.2,4.761904762,340.36,6.3
+INV-00993,C,Bengaluru,Member,Male,Health and beauty,539.45,3,80.92,1699.27,3/31/2025,18:30,Ewallet,1618.35,4.761904762,80.92,9.3
+INV-00994,A,Mumbai,Member,Female,Fashion accessories,475.89,4,95.18,1998.74,3/31/2025,18:33,Ewallet,1903.56,4.761904762,95.18,9.9
+INV-00995,C,Bengaluru,Member,Female,Health and beauty,441.27,6,132.38,2780.0,3/31/2025,18:34,Credit card,2647.62,4.761904762,132.38,8.6
+INV-00996,B,Delhi,Normal,Female,Sports and travel,902.5,9,406.12,8528.62,3/31/2025,19:27,Credit card,8122.5,4.761904762,406.12,7.1
+INV-00997,B,Delhi,Normal,Male,Sports and travel,747.33,4,149.47,3138.79,3/31/2025,19:51,Ewallet,2989.32,4.761904762,149.47,8.2
+INV-00998,C,Bengaluru,Member,Female,Health and beauty,145.12,7,50.79,1066.63,3/31/2025,20:29,Ewallet,1015.84,4.761904762,50.79,7.2
+INV-00999,A,Mumbai,Member,Male,Electronic accessories,732.62,2,73.26,1538.5,3/31/2025,20:37,Credit card,1465.24,4.761904762,73.26,5.9
+INV-01000,C,Bengaluru,Member,Male,Food and beverages,134.33,9,60.45,1269.42,3/31/2025,20:56,Credit card,1208.97,4.761904762,60.45,7.1
+INV-00563,B,Delhi,Member,Female,Sports and travel,376.28,3,56.44,1185.28,2/20/2025,16:15,Cash,1128.84,4.761904762,56.44,4.8
+INV-00408,B,Delhi,Member,Female,Sports and travel,811.78,9,365.3,7671.32,2/6/2025,19:45,Credit card,7306.02,4.761904762,365.3,5.7
+INV-00831,C,Bengaluru,Member,Female,Home and lifestyle,777.91,9,350.06,7351.25,3/16/2025,15:19,Credit card,7001.19,4.761904762,350.06,5.8
+INV-00830,C,Bengaluru,Member,Female,Home and lifestyle,509.59,7,178.36,3745.49,3/16/2025,14:59,Cash,3567.13,4.761904762,178.36,7.1
+INV-00725,A,Mumbai,Member,Male,Fashion accessories,458.27,4,91.65,1924.73,3/6/2025,18:27,Cash ,1833.08,4.761904762,91.65,7.0
+INV-00821,A,Mumbai,Normal,Female,Fashion accessories,670.02,7,234.51,4924.65,3/15/2025,19:03,Cash,4690.14,4.761904762,234.51,7.1
