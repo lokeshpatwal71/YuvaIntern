@@ -1,0 +1,23 @@
+# Dataset files (license not verified, so the data is NOT uploaded; see data/README.md)
+data/*.csv
+data/*.xlsx
+data/*.xls
+data/*.zip
+!data/README.md
+!data/.gitkeep
+
+# Virtual environment
+venv/
+.venv/
+
+# Python / Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Test fixture (synthetic) and OS/editor files
+tests/synthetic_test_fixture.csv
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
