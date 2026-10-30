@@ -1,0 +1,19 @@
+# Analytics Report & Insights Documentation - dependencies
+#
+# Everything in this project was actually executed ONLY with these versions
+# (Python 3.13): numpy 2.5.3, pandas 3.0.5, matplotlib 3.11.2, seaborn 0.13.2,
+# scipy 1.18.1. Older versions were NOT tested; if something fails, upgrade:
+#   pip install --upgrade -r requirements.txt
+#
+# Matplotlib must be new enough to ship the sample file Stocks.csv
+# (src/data_loader.py reads it from Matplotlib's sample_data folder).
+
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+
+# Notebook interface and tests
+jupyter>=1.0
+pytest>=7.4
